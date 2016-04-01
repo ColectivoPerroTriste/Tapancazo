@@ -6,7 +6,7 @@ Nuestra misión es venir a recolectar el material cultural de diversas partes de
 
 Sin embargo, notamos que no todos están al tanto de la importancia de este asunto. No solo es un montón de bits, también forma parte del ADN de su planeta.
 
-Por este motivo, en estos archivos podrán encontrar lo que hemos estado elaborando para el «Congreso intergaláctico de digitalización», un evento llevado a cabo en El Tapanco, Colima, Colima, México. Para nosotros es muy importante su participación porque el invierno se aproxima y nos preocupa que su herencia cultural no esté disponible en CULTUR para ese entonces.
+Por este motivo, **en estos archivos podrán encontrar lo que hemos estado elaborando para el «Congreso intergaláctico de digitalización»**, un evento llevado a cabo en El Tapanco, Colima, Colima, México. Para nosotros es muy importante su participación porque el invierno se aproxima y nos preocupa que su herencia cultural no esté disponible en CULTUR para ese entonces.
 
 ¡Saludos, terrícolas!
 
