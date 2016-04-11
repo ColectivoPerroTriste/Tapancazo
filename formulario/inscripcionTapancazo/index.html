@@ -4,92 +4,94 @@
         <meta charset="UTF-8">
         <title>Registro</title>
         <link rel="stylesheet" type="text/css" href="css/formulario.css" media="all" />
+        <script src="js/funcion.js"></script>
     </head>
     
     <body>
-    <form id="formulario" action="php/enviado.php" method="post">
-        <h1>Registro para el Tapancazo</h1>
-        <p>¡Hola! Para participar en el Taller de Digitalización de Libros por favor llena el siguiente formulario.</p>
-        <fieldset>
+        <form id="formulario" action="php/enviado.php" method="post">
+        <div>
+            <h1>Tapancazo</h1>
+            <h2>Congreso Intergaláctico de Digitalización</h2>
+        </div>
+        <hr>
+        <div>
+            <p class="instruccion">¡Hola, terrícola! Para participar en el Taller de Digitalización de Libros por favor llena el siguiente formulario.</p>
+        </div>
+        <fieldset class="caja">
             <legend>Datos del equipo</legend>
-            <label>Nombre del equipo</label>
-            <input name="nombreEquipo" type="text" />
-            <label>Libro a digitalizar</label>
-            <input name="libro" type="text" />
-            <p>Recuerda que cada equipo debe incluir de dos a cuatro integrantes. Para facilitar la talacha de digitalización, escojan un libro que:</p>
             <ul>
-                <li>No tenga más de 100 páginas.</li>
-                <li>No supere el tamaño carta.</li>
-                <li>No incluya tablas o muchas imágenes.</li>
-                <li>No se maltrate fácilmente.</li>
+                <li class="noLista">
+                    <input name="nombreEquipo" type="text" class="casilla casillaIzq" placeholder="Nombre del equipo" />
+                    <input name="libro" type="text" class="casilla casillaDer" placeholder="Libro a digitalizar" />
+                </li>
             </ul>
+            <div class="recuerda">
+                <p>Recuerda que cada equipo debe incluir de dos a cuatro integrantes.</p>
+                <p>Para facilitar la talacha de digitalización, escojan un libro que:</p>
+                <ul>
+                    <li>No tenga más de 100 páginas.</li>
+                    <li>No supere el tamaño carta.</li>
+                    <li>No incluya tablas o muchas imágenes.</li>
+                    <li>No se maltrate fácilmente.</li>
+                </ul>
+            </div>
         </fieldset>
-        <fieldset>
+        <fieldset class="caja">
             <legend>Datos de los integrantes</legend>
-            <legend>Cosmonauta 1</legend>
-            <label>Nombre o alias</label>
-            <input name="nombre1" type="text" />
-            <label>Correo electrónico</label>
-            <input name="email1" type="text" />
-            <label>¿A qué te dedicas?</label>
-            <textarea name="ocupacion1" type="text"></textarea>
-            <label>¿Por qué te interesa tomar el taller?</label>
-            <textarea name="motivos1" type="text"></textarea>
-            <label>¿Has tenido experiencias previas en el campo de la edición o alguno similar?</label>
-            <textarea name="antecedentes1" type="text"></textarea>
-            <label>¿Cómo te enteraste del taller?</label>
-            <textarea name="difusion1" type="text"></textarea>
-            <hr>
-            <legend>Cosmonauta 2</legend>
-            <label>Nombre o alias</label>
-            <input name="nombre2" type="text" />
-            <label>Correo electrónico</label>
-            <input name="email2" type="text" />
-            <label>¿A qué te dedicas?</label>
-            <textarea name="ocupacion2" type="text"></textarea>
-            <label>¿Por qué te interesa tomar el taller?</label>
-            <textarea name="motivos2" type="text"></textarea>
-            <label>¿Has tenido experiencias previas en el campo de la edición o alguno similar?</label>
-            <textarea name="antecedentes2" type="text"></textarea>
-            <label>¿Cómo te enteraste del taller?</label>
-            <textarea name="difusion2" type="text"></textarea>
-            <legend>Cosmonauta 3</legend>
-            <hr>
-            <label>Nombre o alias</label>
-            <input name="nombre3" type="text" />
-            <label>Correo electrónico</label>
-            <input name="email3" type="text" />
-            <label>¿A qué te dedicas?</label>
-            <textarea name="ocupacion3" type="text"></textarea>
-            <label>¿Por qué te interesa tomar el taller?</label>
-            <textarea name="motivos3" type="text"></textarea>
-            <label>¿Has tenido experiencias previas en el campo de la edición o alguno similar?</label>
-            <textarea name="antecedentes3" type="text"></textarea>
-            <label>¿Cómo te enteraste del taller?</label>
-            <textarea name="difusion3" type="text"></textarea>
-            <legend>Cosmonauta 4</legend>
-            <hr>
-            <label>Nombre o alias</label>
-            <input name="nombre4" type="text" />
-            <label>Correo electrónico</label>
-            <input name="email4" type="text" />
-            <label>¿A qué te dedicas?</label>
-            <textarea name="ocupacion4" type="text"></textarea>
-            <label>¿Por qué te interesa tomar el taller?</label>
-            <textarea name="motivos4" type="text"></textarea>
-            <label>¿Has tenido experiencias previas en el campo de la edición o alguno similar?</label>
-            <textarea name="antecedentes4" type="text"></textarea>
-            <label>¿Cómo te enteraste del taller?</label>
-            <textarea name="difusion4" type="text"></textarea>
-            <p>Es necesario que cada integrante cuente con una computadora portátil con los siguientes programas instalados:</p>
-            <div><a href="https://www.mozilla.org/es-MX/firefox/new/" target="_blank">Firefox</a></div>
-            <div><a href="http://brackets.io/" target="_blank">Brackets</a></div>
-            <div><a href="http://scantailor.org/downloads/" target="_blank">Scan Tailor</a></div>
-            <div><a href="https://github.com/tesseract-ocr/tesseract/wiki" target="_blank">Tesseract</a></div>
-            <p>El sábado de 12:00 a 15:00 estaremos asesorando para instalar los programas, por si necesitas apoyo con alguno.</p>
-            <p>Si no puedes traer computadora, manda un correo a <a href="mailto:contacto@perrotriste.org">contacto@perrotriste.org</a>.</p>
-            <input name="enviar" type="submit" value="Enviar" />
+            <div class="integrante" style="display:inherit">
+                <legend class="cosmo sinMargen">Cosmonauta 1</legend>
+                <input name="nombre1" type="text" class="casilla casillaIzq" placeholder="Nombre o alias" />
+                <input name="email1" type="text" class="casilla casillaDer" placeholder="Correo electrónico"/>
+                <textarea name="ocupacion1" type="text" placeholder="¿A qué te dedicas?"></textarea>
+                <textarea name="motivos1" type="text" placeholder="¿Por qué te interesa tomar el taller?"></textarea>
+                <textarea name="antecedentes1" type="text" placeholder="¿Has tenido experiencias previas en el campo de la edición o alguno similar?"></textarea>
+                <textarea name="difusion1" type="text" placeholder="¿Cómo te enteraste del taller?"></textarea>
+            </div>
+            <div class="integrante" style="display:inherit">
+                <hr class="division">
+                <legend class="cosmo">Cosmonauta 2</legend>
+                <input name="nombre2" type="text" class="casilla casillaIzq" placeholder="Nombre o alias" />
+                <input name="email2" type="text" class="casilla casillaDer" placeholder="Correo electrónico"/>
+                <textarea name="ocupacion2" type="text" placeholder="¿A qué te dedicas?"></textarea>
+                <textarea name="motivos2" type="text" placeholder="¿Por qué te interesa tomar el taller?"></textarea>
+                <textarea name="antecedentes2" type="text" placeholder="¿Has tenido experiencias previas en el campo de la edición o alguno similar?"></textarea>
+                <textarea name="difusion2" type="text" placeholder="¿Cómo te enteraste del taller?"></textarea>
+            </div>
+            <div class="integrante" style="display:none">
+                <hr class="division">
+                <legend class="cosmo">Cosmonauta 3</legend>
+                <input name="nombre3" type="text" class="casilla casillaIzq" placeholder="Nombre o alias" />
+                <input name="email3" type="text" class="casilla casillaDer" placeholder="Correo electrónico"/>
+                <textarea name="ocupacion3" type="text" placeholder="¿A qué te dedicas?"></textarea>
+                <textarea name="motivos3" type="text" placeholder="¿Por qué te interesa tomar el taller?"></textarea>
+                <textarea name="antecedentes3" type="text" placeholder="¿Has tenido experiencias previas en el campo de la edición o alguno similar?"></textarea>
+                <textarea name="difusion3" type="text" placeholder="¿Cómo te enteraste del taller?"></textarea>
+            </div>
+            <div class="integrante" style="display:none">
+                <hr class="division">
+                <legend class="cosmo">Cosmonauta 4</legend>
+                <input name="nombre4" type="text" class="casilla casillaIzq" placeholder="Nombre o alias" />
+                <input name="email4" type="text" class="casilla casillaDer" placeholder="Correo electrónico"/>
+                <textarea name="ocupacion4" type="text" placeholder="¿A qué te dedicas?"></textarea>
+                <textarea name="motivos4" type="text" placeholder="¿Por qué te interesa tomar el taller?"></textarea>
+                <textarea name="antecedentes4" type="text" placeholder="¿Has tenido experiencias previas en el campo de la edición o alguno similar?"></textarea>
+                <textarea name="difusion4" type="text" placeholder="¿Cómo te enteraste del taller?"></textarea>
+            </div>
+            <div id="boton2" onclick="Agregar();">Añadir integrante</div>
+            <div>
+                <p>Es necesario que cada integrante lleve una computadora portátil con los siguientes programas instalados:</p>
+                <table>
+                    <tr>
+                        <td><a href="https://www.mozilla.org/es-MX/firefox/new/" target="_blank"><div>Firefox</div></a></td>
+                        <td><a href="http://brackets.io/" target="_blank"><div>Brackets</div></a></td>
+                        <td><a href="http://scantailor.org/downloads/" target="_blank"><div>Scan Tailor</div></a></td>
+                        <td><a href="https://github.com/tesseract-ocr/tesseract/wiki" target="_blank"><div>Tesseract</div></a></td>
+                    </tr>
+                </table>
+                <p>Si no puedes traer computadora manda un correo a <a href="mailto:contacto@perrotriste.org">contacto@perrotriste.org</a>.</p>
+            </div>
         </fieldset>
-    </form>
+        <input name="enviar" type="submit" value="Enviar" />
+        </form>
     </body>
 </html>
