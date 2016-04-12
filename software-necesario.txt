@@ -1,0 +1,94 @@
+Necesarios para el viaje intergaláctico
+
+
+  Scan Tailor
+    Para posprocesar documentos digitalizados
+    Instalación:
+      Linux ('tar.gz') y Windows: http://scantailor.org/downloads/
+      Ubuntu: desde el Centro de Software o con 'sudo apt-get install scantailor' desde la terminal
+      Mac OS: 'brew install homebrew/x11/scantailor' desde la terminal y con Homebrew
+  
+  Tesseract
+    Para reconocer caracteres (también se ha de instalar el lenguaje español 'spa')
+    Instalación:
+      Linux ('tar.gz'), Windows y Mac OS: https://github.com/tesseract-ocr/tesseract/wiki
+      Ubuntu: 'sudo apt-get install tesseract-ocr' desde la terminal
+  
+  Brackets
+    Para editar archivos HTML
+    Instalación:
+      Linux, Windows y Mac OS: http://brackets.io/
+  
+  Firefox
+    Para verificar documentos XHTML
+    Instalación:
+      Linux, Windows y Mac OS: https://www.mozilla.org/es-MX/firefox/new/
+
+
+
+
+
+Opciones para un mejor viaje
+
+
+Linux
+
+  gscanpdf
+    Para utilizar el escáner
+    Instalación:
+      Varios paquetes: https://sourceforge.net/projects/gscan2pdf/files/gscan2pdf/1.3.9/
+      Ubuntu: 'sudo apt-get install gscan2pdf' desde la terminal
+  
+  converseen
+    Para convertir imágenes a otros formatos, como PDF
+    Instalación:
+      'tar.gz': http://converseen.fasterland.net/download-for-linux/
+      Ubuntu: desde el Centro de Software o con 'sudo apt-get install converseen' desde la terminal
+  
+  pdfsam
+    Para unir o separar archivos PDF
+    Instalación:
+      'tar.gz': https://github.com/torakiki/sejda/releases
+      Ubuntu: desde el Centro de Software o con 'sudo apt-get install pdfsam' desde la terminal
+  
+  Ghostscript
+    Para comprimir archivos PDF
+    Instalación:
+      'tar.gz': http://docs.alfresco.com/4.0/tasks/Ghostscript-install.html
+      Ubuntu: 'sudo apt-get install ghostscript' desde la terminal
+  
+  YAGF
+    Para tener una interfaz gráfica de Tesseract.
+    Instalación:
+      'tar.gz': https://sourceforge.net/projects/yagf-ocr/files/?source=navbar
+      Ubuntu: desde el Centro de Software o con 'sudo apt-get install yagf ' desde la terminal
+
+
+Mac OS
+
+  Homebrew
+    Para facilitar la instalación de otros programas
+    Intalación: http://brew.sh/
+
+  pdfsam
+    Para unir o separar archivos PDF
+    Instalación: http://www.pdfsam.org/download-pdfsam-basic/
+
+  Ghostscript
+    Para comprimir archivos PDF
+    Instalación: 'brew install ghostscript' desde la terminal y con Homebrew
+
+
+Windows
+
+  converseen
+    Para convertir imágenes a otros formatos, como PDF
+    Instalación: http://converseen.fasterland.net/download-for-windows/
+  
+  pdfsam
+    Para unir o separar archivos PDF
+    Instalación: http://www.pdfsam.org/download-pdfsam-basic/
+
+  Ghostscript
+    Para comprimir archivos PDF
+    Instalación: http://ghostscript.com/download/gsdnld.html
