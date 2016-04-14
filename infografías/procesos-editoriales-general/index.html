@@ -1,0 +1,77 @@
+<!--Las funcionalidades son gracias a: http://jaukia.github.io/zoomooz/-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+    <head>
+        <title>Procesos editoriales</title>
+        <link rel="stylesheet" href="css/estilos.css" type="text/css" media="screen" />
+        <script src="js/jquery.min.js" type="text/javascript"></script>
+        <script type="text/javascript" src="js/jquery.zoomooz.min.js"></script>
+        <script type="text/javascript">
+
+            $(document).ready(function() {
+
+                //  Al hacer clic al mapa se hace un zoom out.
+                $('#todo').click(function(evt) {
+                    evt.stopPropagation();
+                    $(this).zoomTo({
+                        duration: 1000,
+                        targetsize: 1.0
+                    });
+                });
+
+                //  Al hacer clic en uno de los elementos se hace zoom in.
+                $('.btn').click(function(evt) {
+                    evt.stopPropagation();
+                    $(this).zoomTo({
+                        duration: 1000,
+                        targetsize: 0.35
+                    });
+                });  
+
+            });
+        </script>
+    </head>
+
+    <!-- Al cargarse el documento se desencadena un clic falso -->
+    <body onload="document.getElementById('todo').click();">
+
+        <!-- Todo el mapa -->
+        <div id="todo">
+            <div id="contenido">
+                <object data="esquema.svg" width="1000" height="610" type="image/svg+xml">
+                    <embed class="esquema" src="src/esquema.svg" width="1000" height="610" type="image/svg+xml" />
+                </object>
+                
+                <!-- Cada elemento del mapa -->
+                <div class="btn" id="btn01"></div>
+                <div class="btn" id="btn02"></div>
+                <div class="btn" id="btn03"></div>
+                <div class="btn" id="btn04"></div>
+                <div class="btn" id="btn05"></div>
+                <div class="btn" id="btn06"></div>
+                <div class="btn" id="btn07"></div>
+                <div class="btn" id="btn08"></div>
+                <div class="btn" id="btn09"></div>
+                <div class="btn" id="btn10"></div>
+                <div class="btn" id="btn11"></div>
+                <div class="btn" id="btn12"></div>
+                <div class="btn" id="btn13"></div>
+                <div class="btn" id="btn14"></div>
+                <div class="btn" id="btn15"></div>
+                <div class="btn" id="btn16"></div>
+                <div class="btn" id="btn17"></div>
+                <div class="btn" id="btn18"></div>
+                <div class="btn" id="btn19"></div>
+                <div class="btn" id="btn20"></div>
+                <div class="btn" id="btn21"></div>
+                <div class="btn" id="btn22"></div>
+                <div class="btn" id="btn23"></div>
+                <div class="btn" id="btn24"></div>
+                <div class="btn" id="btn25"></div>
+                <div class="btn" id="btn26"></div>
+            </div>
+        </div>
+    </body>
+
+</html>

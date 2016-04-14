@@ -1,0 +1,158 @@
+/* Posición del mapa. */
+#todo {
+    background-color: white;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+/* Evita que el gráfico reciba eventos del mouse, para heredarlos a #todo. */
+.esquema {
+    pointer-events: none;
+}
+
+/* Estilo de los botones. */
+.btn {
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    position: absolute;
+    background-color: rgba(0,255,0,0);
+}
+
+/* Habilita los eventos del mouse y lo cambia a una mano para los botones. */
+.btn:hover {
+    cursor: pointer;
+    cursor: hand;
+}
+
+/* Posición de los botones. */
+#btn01 {
+    left: 96px;
+    top: 75px;
+}
+
+#btn02 {
+    left: 158px;
+    top: 75px;
+}
+
+#btn03 {
+    left: 220px;
+    top: 75px;
+}
+
+#btn04 {
+    left: 282px;
+    top: 75px;
+}
+
+#btn05 {
+    left: 344px;
+    top: 75px;
+}
+
+#btn06 {
+    left: 406px;
+    top: 75px;
+}
+
+#btn07 {
+    left: 563px;
+    top: 75px;
+}
+
+#btn08 {
+    left: 625px;
+    top: 75px;
+}
+
+#btn09 {
+    left: 689px;
+    top: 75px;
+}
+
+#btn10 {
+    left: 754px;
+    top: 75px;
+}
+
+#btn11 {
+    left: 816px;
+    top: 75px;
+}
+
+#btn12 {
+    left: 878px;
+    top: 75px;
+}
+
+#btn13 {
+    left: 432px;
+    top: 200px;
+}
+
+#btn14 {
+    left: 496px;
+    top: 200px;
+}
+
+#btn15 {
+    left: 560px;
+    top: 200px;
+}
+
+#btn16 {
+    left: 624px;
+    top: 200px;
+}
+
+#btn17 {
+    left: 688px;
+    top: 200px;
+}
+
+#btn18 {
+    left: 752px;
+    top: 200px;
+}
+
+#btn19 {
+    left: 878px;
+    top: 220px;
+}
+
+#btn20 {
+    left: 878px;
+    top: 285px;
+}
+
+#btn21 {
+    left: 878px;
+    top: 350px;
+}
+
+#btn22 {
+    left: 878px;
+    top: 415px;
+}
+
+#btn23 {
+    left: 878px;
+    top: 480px;
+}
+
+#btn24 {
+    left: 752px;
+    top: 350px;
+}
+
+#btn25 {
+    left: 752px;
+    top: 415px;
+}
+
+#btn26 {
+    left: 752px;
+    top: 480px;
+}

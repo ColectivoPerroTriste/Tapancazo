@@ -1,37 +1,59 @@
-Necesarios para el viaje intergaláctico
+Para cualquier cosmonauta
 
 
-  Scan Tailor
-    Para posprocesar documentos digitalizados
-    Instalación:
-      Linux ('tar.gz') y Windows: http://scantailor.org/downloads/
-      Ubuntu: desde el Centro de Software o con 'sudo apt-get install scantailor' desde la terminal
-      Mac OS: 'brew install homebrew/x11/scantailor' desde la terminal y con Homebrew
+Scan Tailor
+  Para posprocesar documentos digitalizados
+  Instalación:
+    Windows y Linux ('tar.gz'): http://scantailor.org/downloads/
+    Ubuntu: desde el Centro de Software o con 'sudo apt-get install scantailor' desde la terminal
+    Mac OS: 'brew install homebrew/x11/scantailor' desde la terminal y con Homebrew (se abre desde la terminal con 'scantailor')
+
+Ghostscript
+  Para comprimir archivos PDF y otras cosas
+  Instalación:
+    Windows: http://ghostscript.com/download/gsdnld.html
+    Linux ('tar.gz'): http://docs.alfresco.com/4.0/tasks/Ghostscript-install.html
+    Ubuntu: 'sudo apt-get install ghostscript' desde la terminal
+    Mac OS: 'brew install ghostscript' desde la terminal y con Homebrew
+  Cómo usar en la terminal (en Windows, sustituir 'gs' por '\UBICACIÓN\gswin32c.exe'): http://www.tjansson.dk/2012/04/compressing-pdfs-using-ghostscript-under-linux/
   
-  Tesseract
-    Para reconocer caracteres (también se ha de instalar el lenguaje español 'spa')
-    Instalación:
-      Linux ('tar.gz'), Windows y Mac OS: https://github.com/tesseract-ocr/tesseract/wiki
-      Ubuntu: 'sudo apt-get install tesseract-ocr' desde la terminal
+Brackets
+  Para editar archivos HTML
+  Instalación:
+    Windows, Linux y Mac OS: http://brackets.io/
   
-  Brackets
-    Para editar archivos HTML
-    Instalación:
-      Linux, Windows y Mac OS: http://brackets.io/
-  
-  Firefox
-    Para verificar documentos XHTML
-    Instalación:
-      Linux, Windows y Mac OS: https://www.mozilla.org/es-MX/firefox/new/
+Firefox
+  Para verificar documentos XHTML
+  Instalación:
+    Windows, Linux y Mac OS: https://www.mozilla.org/es-MX/firefox/new/
+
+Calibre
+  Para gestionar una biblioteca digital personal
+  Instalación:
+    Windows, Linux y Mac OS: http://calibre-ebook.com/download
 
 
 
 
 
-Opciones para un mejor viaje
+Según el tipo de traje de cada cosmonauta
 
 
-Linux
+Windows
+
+  NAPS2
+    Para utilizar el escáner y reconocer caracteres mediante Tesseract (lo instala automáticamente)
+    Instalación: http://www.naps2.com/download.html
+
+  SumatraPDF
+    Para visualizar documentos y exportar el texto
+    Instalación: http://www.sumatrapdfreader.org/download-free-pdf-viewer-es.html
+
+  eCanCrusher
+    Para comprimir archivos EPUB
+    Instalación: http://www.docdataflow.com/ecancrusher/
+
+Linux*
 
   gscanpdf
     Para utilizar el escáner
@@ -39,56 +61,48 @@ Linux
       Varios paquetes: https://sourceforge.net/projects/gscan2pdf/files/gscan2pdf/1.3.9/
       Ubuntu: 'sudo apt-get install gscan2pdf' desde la terminal
   
-  converseen
-    Para convertir imágenes a otros formatos, como PDF
+  Tesseract
+    Para reconocer caracteres (también se ha de instalar el lenguaje español 'spa')
     Instalación:
-      'tar.gz': http://converseen.fasterland.net/download-for-linux/
-      Ubuntu: desde el Centro de Software o con 'sudo apt-get install converseen' desde la terminal
+      'tar.gz': https://github.com/tesseract-ocr/tesseract/wiki
+      Ubuntu: 'sudo apt-get install tesseract-ocr' desde la terminal
   
   pdfsam
     Para unir o separar archivos PDF
     Instalación:
       'tar.gz': https://github.com/torakiki/sejda/releases
       Ubuntu: desde el Centro de Software o con 'sudo apt-get install pdfsam' desde la terminal
-  
-  Ghostscript
-    Para comprimir archivos PDF
-    Instalación:
-      'tar.gz': http://docs.alfresco.com/4.0/tasks/Ghostscript-install.html
-      Ubuntu: 'sudo apt-get install ghostscript' desde la terminal
-  
-  YAGF
-    Para tener una interfaz gráfica de Tesseract.
-    Instalación:
-      'tar.gz': https://sourceforge.net/projects/yagf-ocr/files/?source=navbar
-      Ubuntu: desde el Centro de Software o con 'sudo apt-get install yagf ' desde la terminal
 
+*Para comprimir archivos EPUB se usa la terminal: http://ebooks.stackexchange.com/questions/257/how-to-repack-an-epub-file-from-command-line
 
-Mac OS
+Mac OS**
 
   Homebrew
     Para facilitar la instalación de otros programas
     Intalación: http://brew.sh/
 
+  Tesseract
+    Para reconocer caracteres (también se ha de instalar el lenguaje español 'spa')
+    Instalación: https://github.com/tesseract-ocr/tesseract/wiki
+
   pdfsam
     Para unir o separar archivos PDF
     Instalación: http://www.pdfsam.org/download-pdfsam-basic/
 
-  Ghostscript
-    Para comprimir archivos PDF
-    Instalación: 'brew install ghostscript' desde la terminal y con Homebrew
+  ePub Zip/Unzip
+    Para comprimir archivos EPUB
+    Instalación (versión 2.1.1): http://www.mobileread.com/forums/showthread.php?t=55681
+
+**Para escanear se utiliza el programa del sistema :(
 
 
-Windows
 
-  converseen
-    Para convertir imágenes a otros formatos, como PDF
-    Instalación: http://converseen.fasterland.net/download-for-windows/
-  
-  pdfsam
-    Para unir o separar archivos PDF
-    Instalación: http://www.pdfsam.org/download-pdfsam-basic/
 
-  Ghostscript
-    Para comprimir archivos PDF
-    Instalación: http://ghostscript.com/download/gsdnld.html
+
+Si al cosmonauta prefiere editar en un procesador de textos
+
+
+LibreOffice
+  Para editar en un procesador de textos
+  Instalación:
+    Linux, Windows y Mac OS: https://es.libreoffice.org/descarga/libreoffice-nuevo/
