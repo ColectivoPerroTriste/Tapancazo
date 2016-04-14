@@ -562,9 +562,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.13793945"
-     inkscape:cx="643.93175"
-     inkscape:cy="1075.2621"
+     inkscape:zoom="0.2758789"
+     inkscape:cx="668.8083"
+     inkscape:cy="807.54368"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -583,7 +583,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -660,16 +660,16 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path8199"
-       d="m 130,272.36216 260,0 0,-650.00003 -260,0 z"
-       style="display:inline;opacity:0.5;fill:#729fcf;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 260,272.36216 130,0 0,-650.00003 -130,0 z"
+       style="display:inline;opacity:1;fill:#e9b96e;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(0,995.63787)" />
     <path
-       transform="translate(0,995.63787)"
-       style="display:inline;opacity:0.5;fill:#3465a4;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 130,922.36213 260,0 0,-650.00003 -260,0 z"
+       style="display:inline;opacity:1;fill:#c17d11;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 260,922.36213 130,0 0,-650.00003 -130,0 z"
        id="path8201"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccc"
+       transform="translate(0,995.63787)" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
@@ -850,7 +850,7 @@
        style="display:inline;opacity:1;fill:#41d6ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 130,1267.5 1320,0"
+       d="m 260,1267.5 1190,0"
        id="path13616"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -858,7 +858,7 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path13618"
-       d="m 130,1915 1320,0"
+       d="m 260,1915 1190,0"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -884,6 +884,12 @@
          y="344.89215"
          x="128.22829"
          sodipodi:role="line">Del formato impreso, al digitalizado y hasta el electrónico</tspan></text>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path9307"
+       d="m 130,1918 130,0 0,-1300 -130,0 z"
+       style="display:inline;opacity:1;fill:#8f5902;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -5173,29 +5179,29 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="51.729652"
-       y="271.06445"
+       x="52.393715"
+       y="337.23633"
        id="text8280"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;letter-spacing:-1px;text-anchor:middle;fill:#000000"
          sodipodi:role="line"
          id="tspan8282"
-         x="51.229652"
-         y="271.06445">Libro digitalizado</tspan></text>
+         x="51.893715"
+         y="337.23633">Publicación digitalizada</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text8284"
-       y="276.06445"
-       x="-598.27032"
+       y="341.06445"
+       x="-597.60626"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        transform="matrix(0,-1,1,0,0,0)"><tspan
-         y="276.06445"
-         x="-598.77032"
+         y="341.06445"
+         x="-598.10626"
          id="tspan8286"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;letter-spacing:-1px;text-anchor:middle;fill:#000000">Libro electrónico</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;letter-spacing:-1px;text-anchor:middle;fill:#000000">Publicación electrónica</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text8318"
@@ -5511,5 +5517,18 @@
          x="1549.3132"
          y="749.81268"
          id="tspan13612">Genesis</tspan></text>
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-272.60626"
+       y="211.06445"
+       id="text9309"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;letter-spacing:-1px;text-anchor:middle;fill:#000000"
+         sodipodi:role="line"
+         id="tspan9311"
+         x="-273.10626"
+         y="211.06445">Publicación digital</tspan></text>
   </g>
 </svg>
