@@ -53,8 +53,19 @@ h2 {
     margin-bottom: 1.5em;
 }
 
+.win {
+    color: #08cc00;
+}
+
+.winP {
+    font-family: Molengo, Verdana, sans-serif;
+    text-align: center;
+    font-size: 1em;
+    color: white;
+}
+
 p, li {
-    line-height: 115%;
+    line-height: 100%;
 }
 
 ul {
@@ -68,12 +79,11 @@ legend {
 }
 
 .instruccion {
-    display: block;
+/*    display: block;*/
     max-width: 60%;
-    padding: 3%;
-    margin-left: 17%;
+    padding: 1%;
+    margin: 0 auto;
     color: lightgray;
-    text-align: center;
 }
 
 .cosmo {
@@ -87,6 +97,8 @@ legend {
 .sinMargen {
     margin-top: 0;
 }
+
+/* Texto en casillas */
 
 input, select, textarea {
     color: #08cc00;
@@ -102,11 +114,23 @@ textarea:focus, input:focus {
     font-size: .9em;
 }
 
-::-webkit-input-placeholder, 
-:-moz-placeholder,
-::-moz-placeholder, 
+::-webkit-input-placeholder {
+    color: #a9a9a9;
+    font-family: Molengo, Helvetica, sans-serif;
+}
+
+:-moz-placeholder {
+    color: #a9a9a9;
+    font-family: Molengo, Helvetica, sans-serif;
+}
+
+::-moz-placeholder {
+    color: #a9a9a9;
+    font-family: Molengo, Helvetica, sans-serif;
+}
+
 :-ms-input-placeholder {
-    color: #626361;
+    color: #a9a9a9;
     font-family: Molengo, Helvetica, sans-serif;
 }
 
@@ -223,7 +247,7 @@ hr {
     min-width: 100%;
 }
 
-/* Botón de enviado */
+/* Botones de enviar, añadir integrante y eliminar integrante */
 
 input[type="submit"] {
     width: 40%;
@@ -244,21 +268,26 @@ input[type="submit"] {
     cursor: pointer;
 }
 
-#boton2 {
+input[type="submit"]:disabled {
+    background-color: #dddddd;
+} 
+
+#botones {
+    width: 100%;
+    margin: 2em 0 4em 0;
+    min-height: 1em;
+}
+
+#botones > div {
     background-color: white;
-    width: 40%;
+    width: 30%;
     height: 2em;
     line-height: 2em;
-    margin: 0 auto;
-    margin-top: 2em;
-    margin-bottom: 4em;
+    margin: auto;
     text-align: center;
-    display: table;
-    position: relative;
     box-shadow: 1px 1px 25px #08cc00;
     border-radius: 3px;
     font-family: Orbitron, Helvetica, sans-serif;
     font-size: .8em;
     cursor: pointer;
 }
-
