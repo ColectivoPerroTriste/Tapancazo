@@ -1,0 +1,95 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Registro</title>
+        <link rel="stylesheet" type="text/css" href="css/formulario.css" media="all" />
+        <script src="js/funcion.js"></script>
+    </head>
+    
+    <body>
+        <form id="formulario" action="php/enviado.php" method="post">
+        <div>
+            <h1>Tapancazo</h1>
+            <h2>Congreso Intergaláctico de Digitalización</h2>
+        </div>
+        <hr>
+        <div>
+            <p class="instruccion">Hola, terrícola. Te damos la bienvenida al formulario de registro para el Taller de Digitalización. Si llegaste aquí por azares del destino te explicamos cómo está el asunto: el <a href="http://perrotriste.org/tapancazo/invitaciones/tapancazo.html" target="_blank">Tapancazo</a> es un maratón de digitalización que se llevará a cabo el 7 y 8 de mayo en Colima, incluyendo el taller y algunas charlas sobre ediciones digitales y cultura libre.</p>
+            <p class="instruccion">El taller incluye dos facetas que se llevarán a cabo de forma paralela: 1) digitalizar la obra que cada equipo elija, desde el escaneo hasta convertirlo en EPUB; 2) digitalizar y catalogar algunos cartones (ilustraciones) de Gabriel Portillo del Toro, artista colimense fallecido en 2013, con los cuales se creará un repositorio de libre acceso.</p>
+            <p class="instruccion">Todas las actividades del Tapancazo son de acceso gratuito. Si te interesa participar en el taller por favor llena el siguiente formulario.</p>
+            <p class="instruccion">Para saber más acerca del evento o resolver cualquier duda manda un correo a <a href="mailto:contacto@perrotriste.org">contacto@perrotriste.org</a>. También puedes visitarnos en <a href="https://www.facebook.com/Perro-Triste-157015254660357/" target="_blank">Facebook</a> y en <a href="https://twitter.com/PerroTristePD" target="_blank">Twitter</a>.</p><br><br>
+        </div>
+        <fieldset class="caja">
+            <legend>Datos del equipo</legend>
+            <ul>
+                <li class="noLista">
+                    <input name="nombreEquipo" type="text" class="casilla casillaIzq camposNecesarios" placeholder="Nombre del equipo" />
+                    <input name="libro" type="text" class="casilla casillaDer camposNecesarios" placeholder="Obra a digitalizar" />
+                </li>
+            </ul>
+            <div class="recuerda">
+                <p>Recuerda que cada equipo debe incluir de dos a cuatro integrantes.</p>
+                <p>Para facilitar la talacha de digitalización, escojan una obra que:</p>
+                <ul>
+                    <li>No tenga más de 100 páginas.</li>
+                    <li>No supere el tamaño carta.</li>
+                    <li>No incluya tablas o muchas imágenes.</li>
+                    <li>No se maltrate fácilmente.</li>
+                </ul>
+                <p>Pueden elegir un libro, revista o cualquier publicación impresa.</p>
+            </div>
+        </fieldset>
+        <fieldset class="caja">
+            <legend>Datos de los integrantes</legend>
+            <div class="integrante" style="display:inherit">
+                <legend class="cosmo sinMargen">Cosmonauta 1</legend>
+                <input name="nombre1" type="text" class="casilla casillaIzq camposNecesarios" placeholder="Nombre o alias" />
+                <input name="email1" type="email" class="casilla casillaDer camposNecesarios" placeholder="Correo electrónico"/>
+                <textarea name="ocupacion1" type="text" placeholder="¿A qué te dedicas?"></textarea>
+                <textarea name="motivos1" type="text" placeholder="¿Por qué te interesa tomar el taller?"></textarea>
+                <textarea name="antecedentes1" type="text" placeholder="¿Has tenido experiencias previas en el campo de la edición o alguno similar?"></textarea>
+                <textarea name="difusion1" type="text" placeholder="¿Cómo te enteraste del taller?"></textarea>
+            </div>
+            <div class="integrante" style="display:inherit">
+                <hr class="division">
+                <legend class="cosmo">Cosmonauta 2</legend>
+                <input name="nombre2" type="text" class="casilla casillaIzq camposNecesarios" placeholder="Nombre o alias" />
+                <input name="email2" type="email" class="casilla casillaDer camposNecesarios" placeholder="Correo electrónico"/>
+                <textarea name="ocupacion2" type="text" placeholder="¿A qué te dedicas?"></textarea>
+                <textarea name="motivos2" type="text" placeholder="¿Por qué te interesa tomar el taller?"></textarea>
+                <textarea name="antecedentes2" type="text" placeholder="¿Has tenido experiencias previas en el campo de la edición o alguno similar?"></textarea>
+                <textarea name="difusion2" type="text" placeholder="¿Cómo te enteraste del taller?"></textarea>
+            </div>
+            <div class="integrante" style="display:none">
+                <hr class="division">
+                <legend class="cosmo">Cosmonauta 3</legend>
+                <input name="nombre3" type="text" class="casilla casillaIzq camposNecesarios" placeholder="Nombre o alias" />
+                <input name="email3" type="email" class="casilla casillaDer camposNecesarios" placeholder="Correo electrónico"/>
+                <textarea name="ocupacion3" type="text" placeholder="¿A qué te dedicas?"></textarea>
+                <textarea name="motivos3" type="text" placeholder="¿Por qué te interesa tomar el taller?"></textarea>
+                <textarea name="antecedentes3" type="text" placeholder="¿Has tenido experiencias previas en el campo de la edición o alguno similar?"></textarea>
+                <textarea name="difusion3" type="text" placeholder="¿Cómo te enteraste del taller?"></textarea>
+            </div>
+            <div class="integrante" style="display:none">
+                <hr class="division">
+                <legend class="cosmo">Cosmonauta 4</legend>
+                <input name="nombre4" type="text" class="casilla casillaIzq camposNecesarios" placeholder="Nombre o alias" />
+                <input name="email4" type="email" class="casilla casillaDer camposNecesarios" placeholder="Correo electrónico"/>
+                <textarea name="ocupacion4" type="text" placeholder="¿A qué te dedicas?"></textarea>
+                <textarea name="motivos4" type="text" placeholder="¿Por qué te interesa tomar el taller?"></textarea>
+                <textarea name="antecedentes4" type="text" placeholder="¿Has tenido experiencias previas en el campo de la edición o alguno similar?"></textarea>
+                <textarea name="difusion4" type="text" placeholder="¿Cómo te enteraste del taller?"></textarea>
+            </div>
+            <div id="botones">
+                <div id="botonAgregar" onclick="Agregar();">Añadir integrante</div>
+                <div id="botonEliminar" onclick="Eliminar();" style="display:none">Eliminar integrante</div>
+            </div>
+            <div>
+                <p>Es necesario que cada integrante del equipo lleve una computadora portátil con los programas requeridos; tras llenar el formulario nos pondremos en contacto para mandarles la lista. Si alguien no puede llevar computadora por favor envíen un correo a <a href="mailto:contacto@perrotriste.org">contacto@perrotriste.org</a>.</p>
+            </div>
+        </fieldset>
+        <input id="botonEnviar" name="enviar" type="submit" value="Enviar" />
+        </form>
+    </body>
+</html>

@@ -1,0 +1,294 @@
+/* Fuentes */
+
+@font-face {
+    font-family: Orbitron;
+    font-style: normal;
+    font-weight: normal;
+    src: url(../src/Orbitron-Medium.ttf);
+}
+
+@font-face {
+    font-family: Molengo;
+    font-style: normal;
+    font-weight: normal;
+    src: url(../src/Molengo-Regular.ttf);
+}
+
+/* General */
+/* Degradado obtenido de: http://uigradients.com/ */
+
+body {
+    background: #AA076B;
+    background: -webkit-linear-gradient(to right, #61045F, #AA076B);
+    background: linear-gradient(to right, #61045F, #AA076B); 
+    margin: 0;
+    padding: 0;
+}
+
+/* Texto */
+
+h1, h2, h3, h4, h5, h6, p, li, legend {
+    font-family: Molengo, Helvetica, sans-serif;
+    color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+}
+
+h1 {
+    font-family: Orbitron, Verdana, sans-serif;
+    text-align: center;
+    font-size: 3em;
+    color: white;
+    margin-top: 1em;
+    margin-bottom: .25em;
+}
+
+h2 {
+    font-family: Orbitron, Verdana, sans-serif;
+    text-align: center;
+    font-size: 1.5em;
+    color: white;
+    margin-bottom: 1.5em;
+}
+
+.win {
+    color: #08cc00;
+}
+
+.winP {
+    font-family: Molengo, Verdana, sans-serif;
+    text-align: center;
+    font-size: 1em;
+    color: white;
+}
+
+p, li {
+    line-height: 100%;
+}
+
+ul {
+    list-style-image: url('../src/ul.png');
+}
+
+legend {
+    font-family: Orbitron, Verdana, sans-serif;
+    font-size: 1.25em;
+    color: white;
+}
+
+.instruccion {
+/*    display: block;*/
+    max-width: 60%;
+    padding: 1%;
+    margin: 0 auto;
+    color: lightgray;
+}
+
+.cosmo {
+    font-family: Orbitron, Verdana, sans-serif;
+    font-size: 1em;
+    color: white;
+    margin-bottom: 1em;
+    margin-top: 2em;
+}
+
+.sinMargen {
+    margin-top: 0;
+}
+
+/* Texto en casillas */
+
+input, select, textarea {
+    color: #08cc00;
+    font-family: Molengo, Helvetica, sans-serif;
+    font-size: .9em;
+}
+
+textarea:focus, input:focus {
+    box-shadow: 0 0 5px #7f0463;
+    border: 1px solid #7f0463;
+    color: #08cc00;
+    font-family: Molengo, Helvetica, sans-serif;
+    font-size: .9em;
+}
+
+::-webkit-input-placeholder {
+    color: #a9a9a9;
+    font-family: Molengo, Helvetica, sans-serif;
+}
+
+:-moz-placeholder {
+    color: #a9a9a9;
+    font-family: Molengo, Helvetica, sans-serif;
+}
+
+::-moz-placeholder {
+    color: #a9a9a9;
+    font-family: Molengo, Helvetica, sans-serif;
+}
+
+:-ms-input-placeholder {
+    color: #a9a9a9;
+    font-family: Molengo, Helvetica, sans-serif;
+}
+
+/* Cajas */
+
+form {
+    margin-bottom: 5em;
+}
+
+.caja {
+    max-width: 60%;
+    padding: 3%;
+    margin-left: 17%;
+    margin-bottom: 2em;
+    box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+    border-style: solid;
+    border-color: #11110f;
+    border-radius: 5px;
+    background-color: #11110f;
+}
+
+/* Casillas */
+
+legend + ul {
+    padding:0;
+    margin:0;
+    list-style:none;
+}
+
+.noLista {
+    display: block;
+    margin-bottom: 1em;
+    min-height: 35px;
+}
+
+.casilla {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    background-color: #1f201d;
+    height: 35px;
+    padding: 8px;
+    outline: none;
+    border: none;
+    margin-bottom: 1em;
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+}
+
+.casillaIzq {
+    width: 49%;
+    float: left;
+}
+
+.casillaDer {
+    width: 49%;
+    float: right;
+}
+
+textarea {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    display: block;
+    width: 98%;
+    max-width: 98%;
+    height: 10em;
+    background-color: #1f201d;
+    padding: 8px;
+    outline: none;
+    border: none;
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+    resize: none;
+}
+
+/* Tablas */
+
+table {
+    width: 100%;
+}
+
+table, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+td {
+    width: 25%;
+    height: 2em;
+    text-align: center;
+    font-family: Orbitron, Helvetica, sans-serif;
+}
+
+/* Enlaces */
+
+a, a:link, a:visited {
+	text-decoration: none;
+	color: #08cc00;
+}
+
+/* Líneas de separación */
+
+hr {
+    max-width: 60%;
+    align-content: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.division {
+    min-width: 100%;
+}
+
+/* Botones de enviar, añadir integrante y eliminar integrante */
+
+input[type="submit"] {
+    width: 40%;
+    height: 3em;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    outline: none;
+    border: none;
+    box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+    border-radius: 3px;
+    text-decoration: none;
+    text-align: center;
+    font-family: Orbitron, Helvetica, sans-serif;
+    font-size: 1em;
+    color: white;
+    background-color: #08cc00;
+    cursor: pointer;
+}
+
+input[type="submit"]:disabled {
+    background-color: #dddddd;
+} 
+
+#botones {
+    width: 100%;
+    margin: 2em 0 4em 0;
+    min-height: 1em;
+}
+
+#botones > div {
+    background-color: white;
+    width: 30%;
+    height: 2em;
+    line-height: 2em;
+    margin: auto;
+    text-align: center;
+    box-shadow: 1px 1px 25px #08cc00;
+    border-radius: 3px;
+    font-family: Orbitron, Helvetica, sans-serif;
+    font-size: .8em;
+    cursor: pointer;
+}
