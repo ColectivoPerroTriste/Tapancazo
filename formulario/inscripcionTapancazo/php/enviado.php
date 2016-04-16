@@ -1,6 +1,6 @@
 <?php
 	$de       = $_POST["nombreEquipo"];
-	$destino  = "ramiro.santaana@perrotriste.org";
+	$destino  = "contacto@perrotriste.org";
 	$asunto   = "Inscripción del equipo: " . $_POST["nombreEquipo"];
 	$mensaje .= "Equipo: " . $_POST["nombreEquipo"] . "\n";
 	$mensaje .= "\n";
