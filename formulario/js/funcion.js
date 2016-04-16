@@ -1,6 +1,3 @@
-//  PENDIENTES:
-//  -RegEx para verificar los campos de correo.
-
 var botonEnviar;
 
 //  Cuando todo se carga, se inician las funciones porque ya están disponibles los elementos del DOM
