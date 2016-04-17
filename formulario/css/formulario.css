@@ -136,6 +136,13 @@ textarea:focus, input:focus {
 
 /* Cajas */
 
+.logoPT {
+    max-width: 2.5em;
+    position: fixed;
+    top: 25px;
+    left: 25px;
+}
+
 form {
     margin-bottom: 5em;
 }
