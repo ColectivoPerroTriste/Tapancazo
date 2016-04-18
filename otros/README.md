@@ -1,4 +1,4 @@
-#Tessractodo
+#Tesseractodo
 
 Este pequeño script en ruby ayuda a utilizar Tesseract en todas las imágenes PNG o TIF de la carpeta seleccionada.
 
