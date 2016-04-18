@@ -1,12 +1,11 @@
 Para cualquier cosmonauta
 
-
 Scan Tailor
   Para posprocesar documentos digitalizados
   Instalación:
     Windows y Linux ('tar.gz'): http://scantailor.org/downloads/
     Ubuntu: desde el Centro de Software o con 'sudo apt-get install scantailor' desde la terminal
-    Mac OS: 'brew install homebrew/x11/scantailor' desde la terminal y con Homebrew (se abre desde la terminal con 'scantailor')
+    Mac OS: 'brew install homebrew/x11/scantailor' desde la terminal y con Homebrew (se abre desde la terminal con 'scantailor’). Revisar más adelante cómo instalar Homebrew.
 
 Ghostscript
   Para comprimir archivos PDF y otras cosas
@@ -15,8 +14,11 @@ Ghostscript
     Linux ('tar.gz'): http://docs.alfresco.com/4.0/tasks/Ghostscript-install.html
     Ubuntu: 'sudo apt-get install ghostscript' desde la terminal
     Mac OS: 'brew install ghostscript' desde la terminal y con Homebrew
-  Cómo usar en la terminal (en Windows, sustituir 'gs' por '\UBICACIÓN\gswin32c.exe'): http://www.tjansson.dk/2012/04/compressing-pdfs-using-ghostscript-under-linux/
-  
+Cómo usar en la terminal (en Windows, sustituir 'gs' por '\UBICACIÓN\gswin32c.exe'): http://www.tjansson.dk/2012/04/compressing-pdfs-using-ghostscript-under-linux/
+	Mac: gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf Final.pdf
+	Windows: Finder > C: > Archivos del programa > Gs > Carpeta intermedia > Bin > programa .exe que termina en c (32c o 64c)
+	<COPIAR UBICACIÓN DEL PROGRAMA> -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf Final.pdf
+
 Brackets
   Para editar archivos HTML
   Instalación:
@@ -84,6 +86,8 @@ Mac OS**
   Tesseract
     Para reconocer caracteres (también se ha de instalar el lenguaje español 'spa')
     Instalación: https://github.com/tesseract-ocr/tesseract/wiki
+    brew install tesseract --all-languages
+    
 
   pdfsam
     Para unir o separar archivos PDF
