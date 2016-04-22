@@ -4,9 +4,13 @@ puts "No olvides estar en el directorio donde quieres los archivos de salida."
 puts "\nEscribe el prefijo del lenguaje a detectar"
 lenguaje = gets.chomp
 puts "\nArrastra la carpeta que contiene las imágenes"
-carpeta = gets.chomp.strip
+carpeta = gets.chomp
 
-Dir.foreach(carpeta) do |archivo|
+if carpeta[-1] == " "
+    carpeta = carpeta[0...-1]
+end
+
+Dir.foreach(carpeta.gsub('\ ', ' ')) do |archivo|
   if File.extname(archivo) == '.png' or File.extname(archivo) == '.tiff' or File.extname(archivo) == '.tif'
       puts "\nEjecutando Tesseract para: #{archivo}"
       comando = system ("tesseract -l #{lenguaje} #{carpeta + "/" + archivo.gsub(' ', '\ ')} #{archivo.gsub(' ', '\ ').gsub('.png', '').gsub('.tiff', '')} pdf")
