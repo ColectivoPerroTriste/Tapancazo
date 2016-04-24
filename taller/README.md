@@ -123,7 +123,7 @@ Nota: para comprimir archivos EPUB se usa la terminal: [http://ebooks.stackexcha
 
 Nota: para escanear se utiliza el *software* del sistema. ):
 
-### Si al cosmonauta prefiere editar en un procesador de textos
+### Si el cosmonauta prefiere editar en un procesador de textos
 
 Como muchos terrícolas saben, el OCR no es cien por ciento fiel, por lo que, al desarrollar el EPUB también es necesario editar el texto reconocido...
 
