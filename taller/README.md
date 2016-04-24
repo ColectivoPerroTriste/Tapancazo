@@ -44,7 +44,7 @@ La segunda etapa del proceso de digitalización es el traslado de un archivo PDF
 
 1. *Extraer*. A partir del PDF y gracias al OCR, se extrae todo el texto de la obra digitalizada para su posterior edición y formateo.
 
-2. *Editar*. Desafortunadamente durante la extracción de pierde el formato del texto o este queda poco uniforme, además del inconveniente de que el reconocimiento de caracteres no es exacto del todo. Por estos motivos, es necesario editar la obra para su mayor legibilidad y deleite. (;
+2. *Editar*. Desafortunadamente durante la extracción de pierde el formato del texto o este queda poco uniforme, además del inconveniente de que el reconocimiento de caracteres no es del todo exacto. Por estos motivos, es necesario editar la obra para su mayor legibilidad y deleite. (;
 
 3. *Formatear*. Una vez que se tiene el texto bien chulo, se pasa a dársele formato HTML, específicamente XHTML, para evitar cualquier tipo de ambigüedad en el marcado.
 
