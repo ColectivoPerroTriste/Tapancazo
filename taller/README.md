@@ -176,6 +176,6 @@ Este documento está pensado para que tú o futuros terrícolas tengan un peque�
 
 Si esto no logra orientarte, no olvides en consultar nuestras [infografías](https://github.com/ColectivoPerroTriste/Tapancazo/tree/master/infograf%C3%ADas), especialmente la que trata sobre los [procesos de digitalización](https://github.com/ColectivoPerroTriste/Tapancazo/blob/master/infograf%C3%ADas/procesos-editoriales-digitalizaci%C3%B3n/esquema-digitalizacion.svg), donde puedes ver una relación entre los pasos a seguir y los programas a utilizar según tu tipo de nave espacial.
 
-Ve toda esta documentación como un mapa y un manual, pero si aún persisten las molestias, nuestro sombrero también es casco intergaláctico, por lo que con gusto somos tus mecánicos. Solo llámanos a contacto@perrostriste.org.
+Ve toda esta documentación como un mapa y un manual, pero si aún persisten las molestias, nuestro sombrero también es casco intergaláctico, por lo que con gusto somos tus mecánicos. Solo llámanos a contacto@perrotriste.org.
 
 Fin de la transmisión.
