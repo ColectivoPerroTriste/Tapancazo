@@ -45,5 +45,20 @@ Sin importar que uses Windows, Linux, o Mac OS se requiere de lo siguiente:
     * Ubuntu: `sudo apt-get install ghostscript` desde la terminal.
     * Mac OS: `brew install ghostscript` desde la terminal y con Homebrew.
   * [Uso](http://www.tjansson.dk/2012/04/compressing-pdfs-using-ghostscript-under-linux/):
-    * Linux o Mac: `gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf`
-    * Windows: `<gswin32c.exe o gswin64.exe> -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf`
+    * Linux o Mac: `gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf`.
+    * Windows: `<gswin32c.exe o gswin64.exe> -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf`.
+
+* Brackets
+  * Para editar archivos HTML. Si ya cuentas con un editor HTML, *bye*, *bye*, Brackets.
+  * Instalación:
+    * Windows, Linux y Mac OS: [http://brackets.io/](http://brackets.io/).
+
+* Firefox
+  * Para visualizar y verificar documentos XHTML. Cualquier explorador sirve, pero este es nuestro gallo.
+  * Instalación:
+    * Windows, Linux y Mac OS: [https://www.mozilla.org/es-MX/firefox/new/](https://www.mozilla.org/es-MX/firefox/new/).
+
+* Calibre
+  * Para gestionar una biblioteca digital personal. Si ya cuentas con un visor de EPUB, no es necesario.
+  * Instalación:
+    * Windows, Linux y Mac OS: [http://calibre-ebook.com/download](http://calibre-ebook.com/download).
