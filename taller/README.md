@@ -22,6 +22,40 @@ GPT fue un terrícola muy querido por nosotros )`: y por ese motivo decidimos di
 
 4. *Publicación digital*. Por último, como parte del segundo proyecto del «Taller de procesos editoriales» de este perrito, haremos una selección y a partir de ahí editaremos y desarrollaremos una publicación	 digital, libre y gratuita. Pero tardaremos un poquito, ¿sale? ¡Ah!, si tienes alguna idea de cómo puede ser, mándanos un mensajito (contacto@perrotriste.org).
 
+## Proceso de digitalización
+
+A sabiendas que los terrícolas constantemente discuten por el nombre de las cosas, podemos hablar que el proceso para obtener una publicación digital a partir de una obra impresa consta de dos fases:
+
+### Obtención de la publicación digitalizada
+
+En esta primera etapa se pasa del formato impreso a un facsímil cuyo archivo de salida es un PDF. Esto involucra las siguientes acciones:
+
+  1. *Digitalizar*. Comprende el trabajo duro de utilizar un escáner para obtener imágenes en formato TIFF o PNG.
+  2. *Enmendar*. ¿Recuerdas lo feo que tienden a quedar las copias o las imágenes de un libro escaneado? Y por si fuera poco, lo incómodo que se convierte su lectura. Para solucionar este problema es necesario acomodar, dividir, alinear, limpiar y demás subprocesos para que nuestra imágenes queden lo más hermosas posibles y sin perder calidad gracias al formato TIFF con que terminan siendo exportadas.
+  3. *OCR*. El Reconocimiento Óptico de Caracteres (OCR, por sus siglas en inglés) permite que el texto de nuestras imágenes sea localizable y seleccionable, además de que a partir de la imagen nos crea archivos PDF por cada página.
+  4. *Unir*. Resuelve el inconveniente de lidiar con tantos archivos PDF al juntarse todos en un solo archivo del mismo formato.
+  5. *Comprimir*. Como último paso en esta etapa, por lo regular el archivo PDF de nuestra obra digitalizada tiende a ser muy pesado. Por ello, es necesario comprimirlo para que sea lo suficientemente pequeño como para distribuirlo en la red sin el inconveniente de esperar horas para su subida.
+
+Una vez concluida esta fase, tenemos un archivo PDF que podemos ver en nuestra computadora o, ¡qué mejor!, compartirla como archivo adjunto o a través de redes P2P, LibGen o Internet Archive.
+
+### Desarrollo de una publicación electrónica
+
+La segunda etapa del proceso de digitalización es el traslado de un archivo PDF a un EPUB, para un manejo más sencillo y controlado del texto, ya que este formato fue creado justo para su lectura desde dispositivos digitales, no como los PDF, cuyo origen fue el de ser archivos de salida para impresión. Aquí se lleva a cabo lo siguiente:
+
+1. *Extraer*. A partir del PDF y gracias al OCR, se extrae todo el texto de la obra digitalizada para su posterior edición y formateo.
+
+2. *Editar*. Desafortunadamente durante la extracción de pierde el formato del texto o este queda muy poco uniformado, además del inconveniente de que el reconocimiento de caracteres no es exacto del todo. Por estos motivos, es necesario editar la obra para su mayor legibilidad y deleite. (;
+
+3. *Formatear*. Una vez que se tiene el texto bien chulo, se pasa a dársele formato HTML, específicamente XHTML, para evitar cualquier tipo de ambigüedad en el marcado.
+
+4. *Desarrollar*. Así como en la creación del PDF antes teníamos un archivo PDF por cada página, aquí en un primer momento se obtiene un archivo XHTML por cada sección del libro. Para juntarlos todos en un único archivo, se pasa a desarrollar el EPUB, que no solo le da forma a la publicación digital, sino que tiene una serie de metadatos y demás elementos por los cuales cualquier lector sabrá que ¡es un libro!
+
+5. *Comprimir*. Como último paso, todos los archivos generales se comprimen, pero en lugar de que su extensión sea ZIP o RAR, como es de costumbre, su extensión y archivo final es una carpeta comprimida en formato EPUB.
+
+Una vez hecho todo esto ¡terminamos con el proceso de digilización! Ahora no solo tienes un PDF, sino un EPUB, más compacto y versátil, que puedes ver tu computadora o, para ladrar más fuerte, compartirla mediante redes P2P, LibGen o Internet Archive.
+
+¡Guau, guau!
+
 ## *Software* necesario
 
 Aquí dejamos una lista de los programas que se necesitan para digitalizar, basándonos en los conocimientos adquiridos en CULTUR.
