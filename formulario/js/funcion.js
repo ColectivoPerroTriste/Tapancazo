@@ -155,22 +155,24 @@ function Habilitar () {
         camposNecesarios = document.getElementsByClassName("camposNecesarios");
     
     //  Verifica los elementos
-    function Verificar (elemento) {
-        if (elemento.value != "") {
-            todosOK--;
-        
+    function Verificar (cuenta) {
+        var max = cuenta;
+        for (var i = 0; i < max; i++) {
+            if (camposNecesarios[i].value != "") {
+                cuenta--;
+            }
+        }
         //  Si todos están llenos se deshabilita el botón
-        if (todosOK == 0)
+        if (cuenta == 0)
             botonEnviar.disabled = false;
         else
             botonEnviar.disabled = true;
-        }
     }
     
     //  Para determinar cuáles verificar
     for (var i = 0; i < camposNecesarios.length; i++) {
-        if (i > 3 && camposNecesarios[i].parentElement.style.display == "inherit") {
-            //  Le suma dos al valor (nombre y mail) para la verificación porque hay más de seis elementos en juego
+        if (i < 2 || camposNecesarios[i].parentElement.style.display == "inherit") {
+            // Aumenta la cuenta si se agregaron más cosmonautas
             switch (i) {
                 case 4:
                     todosOK += 2;
@@ -182,10 +184,8 @@ function Habilitar () {
                     todosOK += 2;
                     break;
             }
-            
-            Verificar(camposNecesarios[i]);
-        }    
-        else if (i < 3)
-            Verificar(camposNecesarios[i]);
+        }
     }
+    
+    Verificar(todosOK);
 }
