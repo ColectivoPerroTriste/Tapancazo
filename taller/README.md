@@ -52,7 +52,7 @@ La segunda etapa del proceso de digitalización es el traslado de un archivo PDF
 
 5. *Comprimir*. Como último paso, se comprime toda la carpeta que contiene los archivos, pero en lugar de que su extensión sea ZIP o RAR, como es de costumbre, su extensión y archivo final es un EPUB.
 
-Una vez hecho todo esto ¡terminamos con el proceso de digilización! Ahora no solo tienes un PDF, sino un EPUB, más compacto y versátil, que puedes ver tu computadora o, para ladrar más fuerte, compartirla mediante redes P2P, LibGen o Internet Archive.
+Una vez hecho todo esto ¡terminamos con el proceso de digilización! Ahora no solo tienes un PDF, sino un EPUB, más compacto y versátil, que puedes ver en tu computadora o, para ladrar más fuerte, compartirla mediante redes P2P, LibGen o Internet Archive.
 
 ¡Guau, guau!
 
