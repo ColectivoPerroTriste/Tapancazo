@@ -169,3 +169,13 @@ Sin embargo, sabemos que a muy pocos les es cómodo editar en un editor HTML. Si
   * Para editar en un procesador de textos, como última opción para el desarrollo de EPUB.
   * Instalación:
     * Windows, Linux y Mac OS: [https://es.libreoffice.org/descarga/libreoffice-nuevo/](https://es.libreoffice.org/descarga/libreoffice-nuevo/).
+
+## ¿Qué hago si me pierdo en el cosmos?
+
+Este documento está pensado para que tú o futuros terrícolas tengan un pequeño asteroide dónde aterrizar.
+
+Si esto no logra orientarte, no olvides en consultar nuestras [infografías](https://github.com/ColectivoPerroTriste/Tapancazo/tree/master/infograf%C3%ADas), especialmente la que trata sobre los [procesos de digitalización](https://github.com/ColectivoPerroTriste/Tapancazo/blob/master/infograf%C3%ADas/procesos-editoriales-digitalizaci%C3%B3n/esquema-digitalizacion.svg), donde puedes ver una relación entre los pasos a seguir y los programas a utilizar según tu tipo de nave espacial.
+
+Ve toda esta documentación como un mapa y un manual, pero si aún persisten las molestias, nuestro sombrero también es casco instergaláctico, por lo que con gusto somos tus mecánicos. Solo llámanos a contacto@perrostriste.org.
+
+Fin de la transmisión.
