@@ -46,7 +46,7 @@ La segunda etapa del proceso de digitalización es el traslado de un archivo PDF
 
 2. *Editar*. Desafortunadamente durante la extracción de pierde el formato del texto o este queda poco uniforme, además del inconveniente de que el reconocimiento de caracteres no es del todo exacto. Por estos motivos, es necesario editar la obra para una mayor legibilidad y deleite. (;
 
-3. *Formatear*. Una vez que se tiene el texto bien chulo, se pasa a dársele formato HTML, específicamente XHTML, para evitar cualquier tipo de ambigüedad en el marcado.
+3. *Formatear*. Una vez que se tiene el texto bien chulo, se pasa a dársele formato HTML, específicamente XHTML, para evitar cualquier tipo de ambigüedad en el marcado que nos evitará posteriores errores al crear el EPUB.
 
 4. *Desarrollar*. Así como en la creación del PDF antes teníamos un archivo PDF por cada página, aquí en un primer momento se obtiene un archivo XHTML por cada sección del libro. Para juntarlos todos en un único archivo, se pasa a desarrollar el EPUB, que no solo le da forma a la publicación digital, sino que tiene una serie de metadatos y demás elementos por los cuales cualquier lector sabrá que ¡es un libro!
 
