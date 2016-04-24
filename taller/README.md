@@ -62,14 +62,14 @@ Aquí dejamos una lista de los programas que se necesitan para digitalizar, bas�
 
 ### Para cualquier cosmonauta
 
-Sin importar que uses Windows, Linux, o Mac OS se requiere de lo siguiente:
+Sin importar que uses Windows, Linux, o Mac OS X se requiere de lo siguiente:
 
 * Scan Tailor
   * Para procesar documentos digitalizados.
   * Instalación:
     * Windows y Linux (`tar.gz`): [http://scantailor.org/downloads/](http://scantailor.org/downloads/).
     * Ubuntu: desde el Centro de Software o con `sudo apt-get install scantailor` desde la terminal.
-    * Mac OS: `brew install homebrew/x11/scantailor` desde la terminal y con Homebrew (se abre desde la terminal con `scantailor’). Más adelante se indica cómo instalar Homebrew.
+    * Mac OS X: `brew install homebrew/x11/scantailor` desde la terminal y con Homebrew (se abre desde la terminal con `scantailor’). Más adelante se indica cómo instalar Homebrew.
 
 * Ghostscript
   * Para comprimir archivos PDF y otras cosas.
@@ -77,7 +77,7 @@ Sin importar que uses Windows, Linux, o Mac OS se requiere de lo siguiente:
     * Windows: [http://ghostscript.com/download/gsdnld.html](http://ghostscript.com/download/gsdnld.html).
     * Linux (`tar.gz`): [http://docs.alfresco.com/4.0/tasks/Ghostscript-install.html](http://docs.alfresco.com/4.0/tasks/Ghostscript-install.html).
     * Ubuntu: `sudo apt-get install ghostscript` desde la terminal.
-    * Mac OS: `brew install ghostscript` desde la terminal y con Homebrew.
+    * Mac OS X: `brew install ghostscript` desde la terminal y con Homebrew.
   * [Uso](http://www.tjansson.dk/2012/04/compressing-pdfs-using-ghostscript-under-linux/):
     * Linux o Mac: `gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf`.
     * Windows: `<gswin32c.exe o gswin64.exe> -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf`.
@@ -85,21 +85,21 @@ Sin importar que uses Windows, Linux, o Mac OS se requiere de lo siguiente:
 * Brackets
   * Para editar archivos HTML. Si ya cuentas con un editor HTML, *bye*, *bye*, Brackets.
   * Instalación:
-    * Windows, Linux y Mac OS: [http://brackets.io/](http://brackets.io/).
+    * Windows, Linux y Mac OS X: [http://brackets.io/](http://brackets.io/).
 
 * Firefox
   * Para visualizar y verificar documentos XHTML. Cualquier explorador sirve, pero este es nuestro gallo.
   * Instalación:
-    * Windows, Linux y Mac OS: [https://www.mozilla.org/es-MX/firefox/new/](https://www.mozilla.org/es-MX/firefox/new/).
+    * Windows, Linux y Mac OS X: [https://www.mozilla.org/es-MX/firefox/new/](https://www.mozilla.org/es-MX/firefox/new/).
 
 * Calibre
   * Para gestionar una biblioteca digital personal. Si ya cuentas con un visor de EPUB, no es necesario.
   * Instalación:
-    * Windows, Linux y Mac OS: [http://calibre-ebook.com/download](http://calibre-ebook.com/download).
+    * Windows, Linux y Mac OS X: [http://calibre-ebook.com/download](http://calibre-ebook.com/download).
 
 ### Según el tipo de traje de cada cosmonauta
 
-A continuación se enumeran el *software* que no es compartido por Windows, Linux y Mac OS, pero que nos ayudan en nuestra travesía.
+A continuación se enumeran el *software* que no es compartido por Windows, Linux y Mac OS X, pero que nos ayudan en nuestra travesía.
 
 #### Windows
 
@@ -137,7 +137,7 @@ A continuación se enumeran el *software* que no es compartido por Windows, Linu
 
 Nota: para comprimir archivos EPUB se usa la terminal: [http://ebooks.stackexchange.com/questions/257/how-to-repack-an-epub-file-from-command-line](http://ebooks.stackexchange.com/questions/257/how-to-repack-an-epub-file-from-command-line).
 
-#### Mac OS
+#### Mac OS X
 
 * Homebrew
   * Para facilitar la instalación de otros programas.
@@ -168,7 +168,7 @@ Sin embargo, sabemos que a muy pocos les es cómodo editar en un editor HTML. Si
 * LibreOffice
   * Para editar en un procesador de textos, como última opción para el desarrollo de EPUB.
   * Instalación:
-    * Windows, Linux y Mac OS: [https://es.libreoffice.org/descarga/libreoffice-nuevo/](https://es.libreoffice.org/descarga/libreoffice-nuevo/).
+    * Windows, Linux y Mac OS X: [https://es.libreoffice.org/descarga/libreoffice-nuevo/](https://es.libreoffice.org/descarga/libreoffice-nuevo/).
 
 ## ¿Qué hago si me pierdo en el cosmos?
 
