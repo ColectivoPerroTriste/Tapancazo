@@ -127,7 +127,7 @@ Nota: para escanear se utiliza el *software* del sistema. ):
 
 Como muchos terrícolas saben, el OCR no es cien por ciento fiel, por lo que, al desarrollar el EPUB también es necesario editar el texto reconocido...
 
-Después de largas noches, muchas croquetas y un montón de ladridos, hemos tomado la decisión de **no usar *software* de ofimática para la edición**. ¿Para qué utilizar un procesador de texto si al final se tiene que volver a formatear el texto en HTML? ¿Para qué, si la exportación a HTML deja documentos sucios que se tardan más en limpiarse que en crearse desde cero? ¿Para qué si el *software* de maquetación permite la importación de formatos HTML?
+Después de largas noches, muchas croquetas y un montón de ladridos, hemos tomado la decisión de **no usar *software* de ofimática para la edición**. ¿Para qué utilizar un procesador de texto si al final se tiene que volver a formatear el texto en HTML? ¿Para qué, si la exportación a HTML deja documentos sucios que se tardan más en limpiarse que en crearse desde cero? ¿Para qué, si el *software* de maquetación permite la importación de formatos HTML?
 
 Sin embargo, sabemos que a muy pocos les es cómodo editar en un editor HTML. Si vas a utilizar un procesador de textos, no uses *software* privativo; no uses el feo Word (desaconsejado por los estándares UFO); usa LibreOffice, el cual está avalado por CULTUR.
 
