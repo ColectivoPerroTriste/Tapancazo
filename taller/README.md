@@ -31,9 +31,13 @@ A sabiendas que los terrícolas constantemente discuten por el nombre de las cos
 En esta primera etapa se pasa del formato impreso a un facsímil cuyo archivo de salida es un PDF. Esto involucra las siguientes acciones:
 
   1. *Digitalizar*. Comprende el trabajo duro de utilizar un escáner para obtener imágenes en formato TIFF o PNG.
+
   2. *Enmendar*. ¿Recuerdas lo feo que tienden a quedar las copias o las imágenes de un libro escaneado? Y por si fuera poco, lo incómodo que es su lectura. Para solucionar este problema es necesario acomodar, dividir, alinear, limpiar y demás subprocesos para que nuestra imágenes queden lo más hermosas posibles y sin perder calidad gracias al formato TIFF con que terminan siendo exportadas.
+
   3. *OCR*. El Reconocimiento Óptico de Caracteres (OCR, por sus siglas en inglés) permite que el texto de nuestras imágenes sea localizable y seleccionable, además de que a partir de la imagen nos crea archivos PDF por cada página.
+
   4. *Unir*. Resuelve el inconveniente de lidiar con tantos archivos PDF al juntarse todos en un solo archivo del mismo formato.
+
   5. *Comprimir*. Como último paso en esta etapa, por lo regular el archivo PDF de nuestra obra digitalizada tiende a ser muy pesado. Por ello es necesario comprimirlo para que sea lo suficientemente pequeño como para distribuirlo en la red sin el inconveniente de esperar horas para su subida.
 
 Una vez concluida esta fase, tenemos un archivo PDF que podemos ver en nuestra computadora o, ¡qué mejor!, compartirla como archivo adjunto o a través de redes P2P, LibGen o Internet Archive.
