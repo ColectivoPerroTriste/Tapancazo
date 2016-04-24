@@ -122,3 +122,16 @@ Nota: para comprimir archivos EPUB se usa la terminal: [http://ebooks.stackexcha
   * Instalación (versión 2.1.1): [http://www.mobileread.com/forums/showthread.php?t=55681](http://www.mobileread.com/forums/showthread.php?t=55681).
 
 Nota: para escanear se utiliza el *software* del sistema. ):
+
+### Si al cosmonauta prefiere editar en un procesador de textos
+
+Como muchos terrícolas saben, el OCR no es cien por ciento fiel, por lo que, al desarrollar el EPUB también es necesario editar el texto reconocido...
+
+Después de largas noches, muchas croquetas y un montón de ladridos, hemos tomado la decisión de **no usar *software* de ofimática para la edición**. ¿Para qué utilizar un procesador de texto si al final se tiene que volver a formatear el texto en HTML? ¿Para qué, si la exportación a HTML deja documentos limpios que más tedioso es limpiarlos que hacerlos desde un editor HTML? ¿Para qué si el *software* de maquetación permite la importación de formatos HTML?
+
+Sin embargo, sabemos que a muy pocos les es cómodo editar en un editor HTML. Si vas a utilizar un procesador de textos, no uses *software* privativo; no uses el feo Word (desaconsejado por los estándares UFO); usa LibreOffice, el cual está avalado por CULTUR.
+
+* LibreOffice
+  * Para editar en un procesador de textos, como última opción para el desarrollo de EPUB.
+  * Instalación:
+    * Windows, Linux y Mac OS: [https://es.libreoffice.org/descarga/libreoffice-nuevo/](https://es.libreoffice.org/descarga/libreoffice-nuevo/).
