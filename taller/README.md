@@ -62,3 +62,63 @@ Sin importar que uses Windows, Linux, o Mac OS se requiere de lo siguiente:
   * Para gestionar una biblioteca digital personal. Si ya cuentas con un visor de EPUB, no es necesario.
   * Instalación:
     * Windows, Linux y Mac OS: [http://calibre-ebook.com/download](http://calibre-ebook.com/download).
+
+### Según el tipo de traje de cada cosmonauta
+
+A continuación se enumeran el *software* que no es compartido por Windows, Linux y Mac OS, pero que nos ayudan en nuestra travesía.
+
+#### Windows
+
+* NAPS2
+  * Para utilizar el escáner y reconocer caracteres mediante Tesseract (lo instala automáticamente).
+  * Instalación: [http://www.naps2.com/download.html](http://www.naps2.com/download.html).
+
+* SumatraPDF
+  * Para visualizar documentos y exportar el texto.
+  * Instalación: [http://www.sumatrapdfreader.org/download-free-pdf-viewer-es.html](http://www.sumatrapdfreader.org/download-free-pdf-viewer-es.html).
+
+* eCanCrusher
+  * Para comprimir archivos EPUB.
+  * Instalación: [http://www.docdataflow.com/ecancrusher/](http://www.docdataflow.com/ecancrusher/).
+
+#### Linux
+
+* gscanpdf
+  * Para utilizar el escáner.
+  * Instalación:
+    * Varios tipos de paquetes: [https://sourceforge.net/projects/gscan2pdf/files/gscan2pdf/1.3.9/](https://sourceforge.net/projects/gscan2pdf/files/gscan2pdf/1.3.9/).
+    * Ubuntu: `sudo apt-get install gscan2pdf` desde la terminal.
+
+* Tesseract
+  * Para reconocer caracteres. No se te olvide instalar el lenguaje español `spa`.
+  * Instalación:
+    * `tar.gz`: [https://github.com/tesseract-ocr/tesseract/wiki](https://github.com/tesseract-ocr/tesseract/wiki).
+    * Ubuntu: `sudo apt-get install tesseract-ocr` desde la terminal.
+
+* pdfsam
+  * Para unir o separar archivos PDF.
+  * Instalación:
+    * `tar.gz`: [https://github.com/torakiki/sejda/releases](https://github.com/torakiki/sejda/releases).
+    * Ubuntu: desde el Centro de Software o con `sudo apt-get install pdfsam` desde la terminal.
+
+Nota: para comprimir archivos EPUB se usa la terminal: [http://ebooks.stackexchange.com/questions/257/how-to-repack-an-epub-file-from-command-line](http://ebooks.stackexchange.com/questions/257/how-to-repack-an-epub-file-from-command-line).
+
+#### Mac OS
+
+* Homebrew
+  * Para facilitar la instalación de otros programas.
+  * Instalación: [http://brew.sh/](http://brew.sh/).
+
+* Tesseract
+  * Para reconocer caracteres. No se te olvide instalar el lenguaje español `spa`.
+  * [Instalación](https://github.com/tesseract-ocr/tesseract/wiki): `brew install tesseract --all-languages`.
+
+* pdfsam
+  * Para unir o separar archivos PDF.
+  * Instalación: [http://www.pdfsam.org/download-pdfsam-basic/](http://www.pdfsam.org/download-pdfsam-basic/).
+
+* ePub Zip/Unzip
+  * Para comprimir archivos EPUB.
+  * Instalación (versión 2.1.1): [http://www.mobileread.com/forums/showthread.php?t=55681](http://www.mobileread.com/forums/showthread.php?t=55681).
+
+Nota: para escanear se utiliza el *software* del sistema. ):
