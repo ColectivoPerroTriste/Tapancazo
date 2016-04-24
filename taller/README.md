@@ -31,7 +31,7 @@ Aquí dejamos una lista de los programas que se necesitan para digitalizar, bas�
 Sin importar que uses Linux, Mac OS o Windows, se requiere de lo siguiente:
 
 * Scan Tailor. Para procesar documentos digitalizados.
-⋅⋅* Instalación:
-....* Windows y Linux (`tar.gz`): [http://scantailor.org/downloads/](http://scantailor.org/downloads/).
-....* Ubuntu: desde el Centro de Software o con `sudo apt-get install scantailor` desde la terminal.
-....* Mac OS: `brew install homebrew/x11/scantailor` desde la terminal y con Homebrew (se abre desde la terminal con `scantailor’). Más adelante se indica cómo instalar Homebrew.
+  * Instalación:
+    * Windows y Linux (`tar.gz`): [http://scantailor.org/downloads/](http://scantailor.org/downloads/).
+    * Ubuntu: desde el Centro de Software o con `sudo apt-get install scantailor` desde la terminal.
+    * Mac OS: `brew install homebrew/x11/scantailor` desde la terminal y con Homebrew (se abre desde la terminal con `scantailor’). Más adelante se indica cómo instalar Homebrew.
