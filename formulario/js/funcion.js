@@ -14,7 +14,7 @@ window.onload = function () {
     }
     
     for (var j = 0; j < camposOtros.length; j++)
-        camposOtros[j].value = "";  
+        camposOtros[j].value = "";
     
     //  Asigna y deshabilita el botón de enviar
     botonEnviar = document.getElementById("botonEnviar");
@@ -34,8 +34,8 @@ function Agregar() {
         
         //  Si alguno de los cosmonautas está oculto
         if (integrantes[i].style.display == "none") {
-            //  Si es el cosmonauta 3
-            if (i == 2) {
+            //  Si es el cosmonauta 2 o 3
+            if (i <= 2) {
                 //  Lo desoculta y aparece el botón de eliminar cuya alineación, junto con el de agregar, se hace flotante
                 integrantes[i].style.display = "inherit";
                 botonEliminar.style.display = "inherit";
@@ -61,6 +61,7 @@ function Eliminar() {
     var integrantes = document.getElementsByClassName("integrante"),
         botonAgregar = document.getElementById("botonAgregar"),
         botonEliminar = document.getElementById("botonEliminar"),
+        camposOtros = document.getElementsByTagName("textarea"),
         camposNecesarios = document.getElementsByClassName("camposNecesarios");
     
     //  Verifica si todos los elementos anteriores están llenos para habilitar el botón
@@ -71,7 +72,7 @@ function Eliminar() {
         for (var i = 0; i < max; i++)
             if (camposNecesarios[i].value != "")
                 todosLlenos--;
-        
+
         //  Si se llega a cero quiere decir que se ha de volver a habilitar el botón porque todos están llenos
         if (todosLlenos == 0)
             botonEnviar.disabled = false;
@@ -80,24 +81,49 @@ function Eliminar() {
     }
     
     //  Solo itera a los últimos dos elementos de los integrantes: cosmonautas 3 y 4
-    for (var i = 2; i < integrantes.length; i++) {
+    for (var i = 1; i < integrantes.length; i++) {
         //  Si alguno de los cosmonautas están visibles
         if (integrantes[i].style.display == "inherit") {
-            //  Si es el cosmonauta 3
-            if (i == 2) {
-                //  Si el cosmonauta 4 no está visible
+            //  Si es el cosmonauta 2
+            if (i == 1) {
+                //  Si el cosmonauta 3 no está visible
                 if (integrantes[i+1].style.display == "none") {
                     //  Lo deja de mostrar, así como desaparece el botón de eliminar; por último hace que se muestre el botón agregar sin posición flotante, para que esté centrado
                     integrantes[i].style.display = "none";
                     botonEliminar.style.display = "none";
                     botonAgregar.style.float = "none";
                     botonEliminar.style.float = "none";
+                    //  Verifica los elementos anteriores que son igual a 4: equipo, libro y cosmonauta 1 (nombre y mail)
+                    Verificar(4);
+                    //  Resetea los campos del cosmonauta 2
+                    for (var i = 0; i < camposNecesarios.length; i++)
+                        if (i > 3 && i < 6 )
+                            camposNecesarios[i].value = "";     
+                    for (var i = 0; i < camposOtros.length; i++)
+                        if (i > 3 && i < 8 )
+                            camposOtros[i].value = ""; 
+                    break;
+                }
+            }
+            //  Si es el cosmonauta 3
+            else if (i == 2) {
+                //  Si el cosmonauta 4 no está visible
+                if (integrantes[i+1].style.display == "none") {
+                    //  Lo deja de mostrar, así como desaparece el botón de eliminar; por último hace que se muestre el botón agregar sin posición flotante, para que esté centrado
+                    integrantes[i].style.display = "none";
+                    botonAgregar.style.display = "inherit";
+                    botonAgregar.style.float = "left";
+                    botonEliminar.style.float = "right";
                     //  Verifica los elementos anteriores que son igual a 6: equipo, libro, cosmonauta 1 (nombre y mail) y cosmonauta 2 (nombre y mail)
                     Verificar(6);
                     //  Resetea los campos del cosmonauta 3
                     for (var i = 0; i < camposNecesarios.length; i++)
                         if (i > 5 && i < 8 )
                             camposNecesarios[i].value = "";
+                    for (var i = 0; i < camposOtros.length; i++)
+                        if (i > 7 && i < 12 )
+                            camposOtros[i].value = ""; 
+                    break;
                 }
             }
             //  Si es el cosmonauta 4
@@ -113,7 +139,9 @@ function Eliminar() {
                 for (var i = 0; i < camposNecesarios.length; i++)
                     if (i > 7)
                         camposNecesarios[i].value = "";
-                //  Cortamos la iteración de i
+                for (var i = 0; i < camposOtros.length; i++)
+                    if (i > 11 )
+                        camposOtros[i].value = ""; 
                 break;
             }
         }
@@ -123,14 +151,14 @@ function Eliminar() {
 //  Para habilitar el botón de enviar, la función se activa cada vez que se hace un cambio a un campo necesario
 function Habilitar () {
     
-    var todosOK = 6,
+    var todosOK = 4,
         camposNecesarios = document.getElementsByClassName("camposNecesarios");
     
     //  Verifica los elementos
     function Verificar (elemento) {
         if (elemento.value != "") {
             todosOK--;
-            
+        
         //  Si todos están llenos se deshabilita el botón
         if (todosOK == 0)
             botonEnviar.disabled = false;
@@ -141,9 +169,12 @@ function Habilitar () {
     
     //  Para determinar cuáles verificar
     for (var i = 0; i < camposNecesarios.length; i++) {
-        if (i > 5 && camposNecesarios[i].parentElement.style.display == "inherit") {
+        if (i > 3 && camposNecesarios[i].parentElement.style.display == "inherit") {
             //  Le suma dos al valor (nombre y mail) para la verificación porque hay más de seis elementos en juego
             switch (i) {
+                case 4:
+                    todosOK += 2;
+                    break;
                 case 6:
                     todosOK += 2;
                     break;
@@ -154,7 +185,7 @@ function Habilitar () {
             
             Verificar(camposNecesarios[i]);
         }    
-        else if (i < 6)
+        else if (i < 3)
             Verificar(camposNecesarios[i]);
     }
 }
