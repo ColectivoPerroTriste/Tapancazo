@@ -28,11 +28,22 @@ Aquí dejamos una lista de los programas que se necesitan para digitalizar, bas�
 
 ### Para cualquier cosmonauta
 
-Sin importar que uses Linux, Mac OS o Windows, se requiere de lo siguiente:
+Sin importar que uses Windows, Linux, o Mac OS se requiere de lo siguiente:
 
-* Scan Tailor.
+* Scan Tailor
   * Para procesar documentos digitalizados.
   * Instalación:
     * Windows y Linux (`tar.gz`): [http://scantailor.org/downloads/](http://scantailor.org/downloads/).
     * Ubuntu: desde el Centro de Software o con `sudo apt-get install scantailor` desde la terminal.
     * Mac OS: `brew install homebrew/x11/scantailor` desde la terminal y con Homebrew (se abre desde la terminal con `scantailor’). Más adelante se indica cómo instalar Homebrew.
+
+* Ghostscript
+  * Para comprimir archivos PDF y otras cosas.
+  * Instalación:
+    * Windows: [http://ghostscript.com/download/gsdnld.html](http://ghostscript.com/download/gsdnld.html).
+    * Linux ('tar.gz'): [http://docs.alfresco.com/4.0/tasks/Ghostscript-install.html](http://docs.alfresco.com/4.0/tasks/Ghostscript-install.html).
+    * Ubuntu: 'sudo apt-get install ghostscript' desde la terminal.
+    * Mac OS: 'brew install ghostscript' desde la terminal y con Homebrew.
+  * [Uso](http://www.tjansson.dk/2012/04/compressing-pdfs-using-ghostscript-under-linux/):
+    * Linux o Mac: 'gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf'
+    * Windows: '<gswin32c.exe o gswin64.exe> -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf'
