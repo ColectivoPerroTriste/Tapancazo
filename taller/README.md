@@ -212,7 +212,7 @@ Sin embargo, sabemos que a muy pocos les es cómodo editar en un editor HTML. Si
 
 * `README.md`. Este archivo. (:
 
-* `What_Is_EPUB_3_.epub`. Libro que explica de manera breve y concisa lo que es un EPUB versión 3. Está en inglés, pero es muy recomendable.
+* `What_Is_EPUB_3_.epub`. Libro que explica de manera breve y concisa lo que es un EPUB versión 3.
 
 ## ¿Qué hago si me pierdo en el cosmos?
 
