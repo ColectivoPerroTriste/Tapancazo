@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xml:lang="en" unique-identifier="uid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" version="3.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <meta property="rendition:layout">reflowable</meta>
+		<meta property="ibooks:specified-fonts">true</meta>
+        <meta property="dcterms:modified">2016-01-26T12:00:00Z</meta>
+        <dc:identifier id="uid">Música e Iglesia v0.1.2</dc:identifier>
+		<dc:title id="title">Música e Iglesia. Acercamientos a la música sacra en Colima</dc:title>
+		<dc:creator>Rosales, Alberto</dc:creator>
+		<dc:publisher>Perro Triste</dc:publisher>  
+		<dc:description>Sinopsis</dc:description>
+        <dc:rights>Algunas derechos</dc:rights>
+		<dc:language>es</dc:language>
+	</metadata>
+	<manifest>
+		<item href="nav/nav.xhtml" id="nav_xhtml" properties="nav" media-type="application/xhtml+xml" />
+		<item href="toc.ncx" id="toc_ncx" media-type="application/x-dtbncx+xml" />
+		<item href="css/principal.css" id="principal_css" media-type="text/css"/>
+        <item href="ttf/Lora-Bold.ttf" id="Lora-Bold_ttf" media-type="application/vnd.ms-opentype" />
+        <item href="ttf/Lora-Italic.ttf" id="Lora-Italic_ttf" media-type="application/vnd.ms-opentype" />
+        <item href="ttf/Lora-Regular.ttf" id="Lora-Regular_ttf" media-type="application/vnd.ms-opentype" />
+		<item href="xhtml/01-portada.xhtml" id="portada_xhtml" media-type="application/xhtml+xml" />
+		<item href="xhtml/02-portadilla.xhtml" id="portadilla_xhtml" media-type="application/xhtml+xml" />
+		<item href="xhtml/03-legal.xhtml" id="legal_xhtml" media-type="application/xhtml+xml" />
+		<item href="xhtml/04-introduccion.xhtml" id="intro_xhtml" media-type="application/xhtml+xml" />
+		<item href="xhtml/05-capitulo01.xhtml" id="capitulo01_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/06-capitulo02.xhtml" id="capitulo02_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/07-conclusion.xhtml" id="conclusion_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/08-notas.xhtml" id="notas_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/09-anexo1.xhtml" id="anexo1_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/10-anexo2.xhtml" id="anexo2_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/11-bibliografia.xhtml" id="bibliografia_xhtml" media-type="application/xhtml+xml" />
+        <item href="img/portada.jpg" id="portada_jpg" media-type="image/jpeg" properties="cover-image" />
+        <item href="img/figura1.jpg" id="figura1_jpg" media-type="image/jpeg" />
+        <item href="img/figura2.jpg" id="figura2_jpg" media-type="image/jpeg" /> 
+        <item href="img/figura3.jpg" id="figura3_jpg" media-type="image/jpeg" /> 
+        <item href="img/figura4.jpg" id="figura4_jpg" media-type="image/jpeg" /> 
+        <item href="img/figura5.jpg" id="figura5_jpg" media-type="image/jpeg" /> 
+        <item href="img/figura6.jpg" id="figura6_jpg" media-type="image/jpeg" /> 
+        <item href="img/figura7.jpg" id="figura7_jpg" media-type="image/jpeg" /> 
+        <item href="img/ul.png" id="ul_png" media-type="image/png" />
+        <item href="img/logo.png" id="logo_png" media-type="image/png" />
+        <item href="img/logo2.png" id="logo2_png" media-type="image/png" />
+	</manifest>
+	<spine toc="toc_ncx">
+		<itemref idref="portada_xhtml"/>
+		<itemref idref="portadilla_xhtml"/>
+		<itemref idref="legal_xhtml"/>
+		<itemref idref="intro_xhtml"/>
+		<itemref idref="capitulo01_xhtml"/>
+        <itemref idref="capitulo02_xhtml"/>
+        <itemref idref="conclusion_xhtml"/>
+        <itemref idref="notas_xhtml" linear="no"/>
+        <itemref idref="anexo1_xhtml"/>
+        <itemref idref="anexo2_xhtml"/>
+        <itemref idref="bibliografia_xhtml"/>
+	</spine>
+</package>

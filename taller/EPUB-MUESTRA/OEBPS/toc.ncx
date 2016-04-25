@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+
+	<head>
+		<meta content="Música e Iglesia v0.1.2" name="dtb:uid"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+
+	<docTitle>
+		<text>Música e Iglesia. Acercamientos a la música sacra en Colima</text>
+	</docTitle>
+
+	<docAuthor>
+		<text>Rosales, Carlos</text>
+	</docAuthor>
+
+	<navMap>
+		<navPoint id="navPoint-01" playOrder="1"><navLabel><text>Inicio</text></navLabel><content src="xhtml/01-portada.xhtml"/></navPoint>
+		<navPoint id="navPoint-02" playOrder="2"><navLabel><text>Introducción</text></navLabel><content src="xhtml/04-introduccion.xhtml"/></navPoint>
+		<navPoint id="navPoint-03" playOrder="3"><navLabel><text>Capítulo 1</text></navLabel><content src="xhtml/05-capitulo01.xhtml"/></navPoint>
+        <navPoint id="navPoint-04" playOrder="4"><navLabel><text>Capítulo 2</text></navLabel><content src="xhtml/06-capitulo02.xhtml"/></navPoint>
+        <navPoint id="navPoint-05" playOrder="5"><navLabel><text>Conclusión</text></navLabel><content src="xhtml/07-conclusion.xhtml"/></navPoint>
+        <navPoint id="navPoint-06" playOrder="6"><navLabel><text>Notas</text></navLabel><content src="xhtml/08-notas.xhtml"/></navPoint>
+        <navPoint id="navPoint-07" playOrder="7"><navLabel><text>Anexo 1</text></navLabel><content src="xhtml/09-anexo1.xhtml"/></navPoint>
+        <navPoint id="navPoint-08" playOrder="8"><navLabel><text>Anexo 2</text></navLabel><content src="xhtml/10-anexo2.xhtml"/></navPoint>
+        <navPoint id="navPoint-09" playOrder="9"><navLabel><text>Bibliografía</text></navLabel><content src="xhtml/11-bibliografia.xhtml"/></navPoint>
+		
+    </navMap>
+</ncx>

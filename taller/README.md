@@ -174,6 +174,11 @@ Sin embargo, sabemos que a muy pocos les es cómodo editar en un editor HTML. Si
   * Instalación:
     * Windows, Linux y Mac OS X: [https://es.libreoffice.org/descarga/libreoffice-nuevo/](https://es.libreoffice.org/descarga/libreoffice-nuevo/).
 
+## Árbol de directorios
+
+* `EPUB-MUESTRA`. Una publicación de Perro Triste que sirve de base para desarrollar los EPUB.
+* `README.md`. Este archivo. (:
+
 ## ¿Qué hago si me pierdo en el cosmos?
 
 Este documento está pensado para que tú o futuros terrícolas tengan un pequeño asteroide dónde aterrizar.
