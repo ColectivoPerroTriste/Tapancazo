@@ -192,7 +192,7 @@ Sin embargo, sabemos que a muy pocos les es cómodo editar en un editor HTML. Si
 
     * `nav`. Una carpeta que contiene otra tabla de contenidos. En la práctica puedes prescindir de esta carpeta, pero en Perro Triste hemos optado por colocar aquí esta otra tabla.
 
-      *`nav.xhtml`. Es la tabla de contenidos para renderizadores modernos. Es prácticamente igual al `toc.ncx`, pero dado a que es casi imposible saber qué tabla puede leer el renderizador, hay necesidad de tenerlo. En la práctica también es necesario modificarlo según la obra.
+      * `nav.xhtml`. Es la tabla de contenidos para renderizadores modernos. Es prácticamente igual al `toc.ncx`, pero dado a que es casi imposible saber qué tabla puede leer el renderizador, hay necesidad de tenerlo. En la práctica también es necesario modificarlo según la obra.
 
     * `xhtml`. La carpeta que contiene todas las secciones y texto del libro. En la práctica puedes prescindir de esta carpeta, pero en Perro Triste hemos optado por colocar aquí todas las secciones del libro.
 
