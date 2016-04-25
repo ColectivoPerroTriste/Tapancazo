@@ -208,7 +208,7 @@ Sin embargo, sabemos que a muy pocos les es cómodo editar en un editor HTML. Si
 
     * `img`. El directorio que contiene todas las imágenes de la obra. En la práctica puedes prescindir de este directorio y todo su contenido.
 
-      * Imágenes PNG y JPG. Además de todas las imágenes relativas a la obra de muestra, en Perro Triste existe en consenso de llamar a la portada del libro `portada.jpg`, asegurando así una correcta manifestación en el `content.opf` así como nos ahorra la necesidad de volver a vincularla en el archivo `01-portada.xhtml`. Se recomienda utilizar formatos JPG para imágenes con fondo y PNG para las que no se desea un fondo transparente. Además, antes de colocarla aquí, no es mala idea comprimir la imagen para que esté más ligera y, por lo tanto, el EPUB pese menos. Un compresor en línea de imágenes de estos formatos es [tiny jpg](https://tinyjpg.com/).
+      * Imágenes PNG y JPG. Además de todas las imágenes relativas a la obra de muestra, en Perro Triste existe en consenso de llamar a la portada del libro `portada.jpg`, asegurando así una correcta manifestación en el `content.opf` así como nos ahorra la necesidad de volver a vincularla en el archivo `01-portada.xhtml`. Se recomienda utilizar formatos JPG para imágenes con fondo y PNG para las que no se desea un fondo transparente. Además, antes de colocarla aquí, no es mala idea comprimir la imagen para que esté más ligera y, por lo tanto, el EPUB pese menos. Un compresor en línea de imágenes en estos formatos es [tiny jpg](https://tinyjpg.com/).
 
 * `README.md`. Este archivo. (:
 
