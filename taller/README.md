@@ -1,6 +1,6 @@
 # Índice
 * [Taller de digitalización](#taller-de-digitalización)
-  * [Proyecto de Gabriel Portillo del Toro](#proyecto-de-grabriel-portillo-del-toro)
+  * [Proyecto de Gabriel Portillo del Toro](#proyecto-de-gabriel-portillo-del-toro)
   * [Proceso de digitalización](#proceso-de-digitalización)
     * [Obtención de la publicación digitalizada](#obtención-de-la-publicación)
     * [Desarrollo de una publicación electrónica](#desarrollo-de-una-publicación-electrónica)
