@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="31.5cm"
+   height="21cm"
+   viewBox="0 0 1116.1417 744.09445"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="tapancazo-cartel-completo.svg"
+   inkscape:export-filename="/Users/leovolkov/ownCloud/Tapancazo/invitacion/tapancazo-cartel-completo.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="Tapancazo"
+       inkscape:collect="always">
+      <stop
+         id="stop4153"
+         offset="0"
+         style="stop-color:#61045f;stop-opacity:1" />
+      <stop
+         id="stop4155"
+         offset="1"
+         style="stop-color:#aa076b;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Tapancazo"
+       id="linearGradient4149"
+       x1="0"
+       y1="308.26773"
+       x2="1052.3622"
+       y2="308.26773"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0606061,0,0,0.49999999,0,526.19388)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="556.60451"
+     inkscape:cy="365.03603"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3416"
+     showgrid="false"
+     units="cm"
+     inkscape:window-width="1280"
+     inkscape:window-height="751"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="1080.7086,708.66097"
+       orientation="0,1"
+       id="guide4230"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1080.709,708.66097"
+       orientation="1,0"
+       id="guide4232"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="35.43307,708.66139"
+       orientation="1,0"
+       id="guide4628"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="35.43307,35.433069"
+       orientation="0,1"
+       id="guide4630"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="fondo"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26779)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:url(#linearGradient4149);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3341"
+       width="1116.1417"
+       height="744.09448"
+       x="0"
+       y="308.28052" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="cajasExternas"
+     style="display:inline"
+     transform="translate(0,-744.09449)"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.45802"
+       y="812.3573"
+       id="text4145"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4147"
+         x="103.45802"
+         y="812.3573"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:Orbitron;-inkscape-font-specification:'Orbitron Medium';fill:#ffffff">Tapancazo</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4149"
+       y="847.37836"
+       x="102.81802"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:27.5px;font-family:Orbitron;-inkscape-font-specification:'Orbitron Medium';fill:#ffffff"
+         y="847.37836"
+         x="102.81802"
+         id="tspan4151"
+         sodipodi:role="line">Congreso Intergaláctico de Digitalización</tspan></text>
+    <g
+       id="g4632"
+       transform="translate(0,-26)">
+      <rect
+         style="opacity:1;fill:#11110f;fill-opacity:0.58823529;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4236"
+         width="398.61642"
+         height="35.433071"
+         x="36.172462"
+         y="885.77869" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4238"
+         y="910.18896"
+         x="49.999989"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#00ff00"
+           y="910.18896"
+           x="49.999989"
+           id="tspan4240"
+           sodipodi:role="line">Colima, 7 y 8 de mayo | Entrada libre</tspan></text>
+    </g>
+    <g
+       id="g3416"
+       transform="translate(0,32)">
+      <rect
+         y="1304.9229"
+         x="76.925194"
+         height="35.433071"
+         width="974.40942"
+         id="rect4234"
+         style="opacity:1;fill:#11110f;fill-opacity:0.58823529;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="88.571419"
+         y="1328.7604"
+         id="text4164"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4166"
+           x="88.571419"
+           y="1328.7604"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff">Regístrate para el taller en <tspan
+   id="tspan4168"
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.5px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#00ff00">tapancazo.perrotriste.org</tspan>. | Las charlas no requieren registro.</tspan></text>
+    </g>
+    <image
+       sodipodi:absref="/Users/leovolkov/ownCloud/Tapancazo/invitacion/logoCorreo.png"
+       xlink:href="logoCorreo.png"
+       y="1385.8743"
+       x="35.432999"
+       id="image4248"
+       preserveAspectRatio="none"
+       height="19.98"
+       width="20" />
+    <image
+       sodipodi:absref="/Users/leovolkov/ownCloud/Tapancazo/invitacion/logoFacebook.png"
+       xlink:href="logoFacebook.png"
+       y="1409.2719"
+       x="35.432999"
+       id="image4308"
+       preserveAspectRatio="none"
+       height="19.980001"
+       width="20" />
+    <image
+       sodipodi:absref="/Users/leovolkov/ownCloud/Tapancazo/invitacion/logoTwitter.png"
+       xlink:href="logoTwitter.png"
+       y="1432.7158"
+       x="35.432999"
+       id="image4368"
+       preserveAspectRatio="none"
+       height="20.040079"
+       width="20" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="112.85714"
+       y="1386.7604"
+       id="text3370"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3372"
+         x="112.85714"
+         y="1386.7604" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="65.580345"
+       y="1400.0868"
+       id="text3374"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3376"
+         x="65.580345"
+         y="1400.0868"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#00ff00">contacto@perrotriste.org</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3380"
+       y="1447.1759"
+       x="65.405342"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#00ff00"
+         y="1447.1759"
+         x="65.405342"
+         id="tspan3382"
+         sodipodi:role="line">@PerroTristePD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="65.142845"
+       y="1424.7893"
+       id="text3386"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3388"
+         x="65.142845"
+         y="1424.7893"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#00ff00">Perro Triste</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="horarios"
+     transform="translate(0,-744.09449)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       id="g4531"
+       transform="translate(76.925197,-157.198)">
+      <rect
+         y="1062.9922"
+         x="0"
+         height="425.19684"
+         width="974.409"
+         id="rect3422"
+         style="display:inline;opacity:1;fill:#11110f;fill-opacity:0.58823529;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3455"
+         d="m 141.732,1062.9921 0,425.1969"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4261"
+         d="m 832.677,1062.9921 0,425.1969"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4263"
+         d="m 141.732,1275.5905 690.945,0"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4265"
+         d="m 141.732,1311.0236 690.945,0"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4267"
+         d="m 141.732,1346.4567 690.945,0"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4269"
+         d="m 141.732,1381.8897 690.945,0"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4271"
+         d="m 141.732,1417.3228 690.945,0"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4273"
+         d="m 141.732,1452.7559 690.945,0"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4277"
+         d="m 0,1275.5905 141.732,0"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 141.732,1097.9252 690.945,0"
+         id="path4281"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 141.732,1133.3583 690.945,0"
+         id="path4283"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 141.732,1168.7913 690.945,0"
+         id="path4285"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 141.732,1204.2244 690.945,0"
+         id="path4287"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 141.732,1239.6575 690.945,0"
+         id="path4289"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4299"
+         d="m 230.31496,1062.9921 0,425.1969"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4301"
+         y="1174.5261"
+         x="33.092667"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff"
+           y="1174.5261"
+           x="33.092667"
+           id="tspan4303"
+           sodipodi:role="line">Sábado 7</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="25.931337"
+         y="1387.6887"
+         id="text4305"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4307"
+           x="25.931337"
+           y="1387.6887"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff">Domingo 8</tspan></text>
+      <g
+         id="g4375">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4357"
+           y="1477.4124"
+           x="160.53943"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff"
+             y="1477.4124"
+             x="160.53943"
+             id="tspan4359"
+             sodipodi:role="line">19:00</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="250.28569"
+           y="1476.3524"
+           id="text4363"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4365"
+             x="250.28569"
+             y="1476.3524"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#00ff00">Presentación de las primeras publicaciones de Perro Triste</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4493"
+           d="m 832.677,1417.3228 141.73245,0"
+           style="opacity:0.98999999;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(0,-35.43528)"
+         id="g4381">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="160.53943"
+           y="1477.4124"
+           id="text4383"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4385"
+             x="160.53943"
+             y="1477.4124"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff">18:00</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4387"
+           y="1476.3524"
+           x="250.28569"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#00ff00"
+             y="1476.3524"
+             x="250.28569"
+             id="tspan4389"
+             sodipodi:role="line">Campechana Mental: bibliotecas digitales y escáneres DIY</tspan></text>
+      </g>
+      <g
+         id="g4391"
+         transform="translate(0,-70.868351)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4393"
+           y="1477.4124"
+           x="160.53943"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff"
+             y="1477.4124"
+             x="160.53943"
+             id="tspan4395"
+             sodipodi:role="line">16:00</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="250.28569"
+           y="1476.3524"
+           id="text4397"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4399"
+             x="250.28569"
+             y="1476.3524"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff">Taller de Digitalización: Cierre</tspan></text>
+      </g>
+      <g
+         transform="translate(0,-106.30142)"
+         id="g4401">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="160.53943"
+           y="1477.4124"
+           id="text4403"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4405"
+             x="160.53943"
+             y="1477.4124"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff">15:00</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4407"
+           y="1476.3524"
+           x="250.28569"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff"
+             y="1476.3524"
+             x="250.28569"
+             id="tspan4409"
+             sodipodi:role="line">Comida</tspan></text>
+      </g>
+      <g
+         id="g4411"
+         transform="translate(0,-141.73449)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4413"
+           y="1477.4124"
+           x="160.53943"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff"
+             y="1477.4124"
+             x="160.53943"
+             id="tspan4415"
+             sodipodi:role="line">10:00</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="250.28569"
+           y="1476.3524"
+           id="text4417"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4419"
+             x="250.28569"
+             y="1476.3524"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff">Taller de Digitalización</tspan></text>
+      </g>
+      <g
+         transform="translate(0,-177.16756)"
+         id="g4421">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="160.53943"
+           y="1477.4124"
+           id="text4423"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4425"
+             x="160.53943"
+             y="1477.4124"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff">09:00</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4427"
+           y="1476.3524"
+           x="250.28569"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff"
+             y="1476.3524"
+             x="250.28569"
+             id="tspan4429"
+             sodipodi:role="line">Desayuno</tspan></text>
+      </g>
+      <g
+         id="g4431"
+         transform="translate(0,-212.60063)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4433"
+           y="1477.4124"
+           x="160.53943"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff"
+             y="1477.4124"
+             x="160.53943"
+             id="tspan4435"
+             sodipodi:role="line">21:00</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="250.28569"
+           y="1476.3524"
+           id="text4437"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4439"
+             x="250.28569"
+             y="1476.3524"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff">Taller de Digitalización (toda la noche)</tspan></text>
+      </g>
+      <g
+         transform="translate(0,-248.03371)"
+         id="g4441">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="160.53943"
+           y="1477.4124"
+           id="text4443"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4445"
+             x="160.53943"
+             y="1477.4124"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff">20:00</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4447"
+           y="1476.3524"
+           x="250.28569"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#00ff00"
+             y="1476.3524"
+             x="250.28569"
+             id="tspan4449"
+             sodipodi:role="line">Gabriel Portillo del Toro:  ¿por qué digitalizar su obra?</tspan></text>
+      </g>
+      <g
+         id="g4451"
+         transform="translate(0,-283.46678)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4453"
+           y="1477.4124"
+           x="160.53943"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff"
+             y="1477.4124"
+             x="160.53943"
+             id="tspan4455"
+             sodipodi:role="line">19:00</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="250.28569"
+           y="1476.3524"
+           id="text4457"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4459"
+             x="250.28569"
+             y="1476.3524"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#00ff00">Perro Triste y los procesos de edición digital</tspan></text>
+      </g>
+      <g
+         transform="translate(0,-318.89985)"
+         id="g4461">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="160.53943"
+           y="1477.4124"
+           id="text4463"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4465"
+             x="160.53943"
+             y="1477.4124"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff">16:00</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4467"
+           y="1476.3524"
+           x="250.28569"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff"
+             y="1476.3524"
+             x="250.28569"
+             id="tspan4469"
+             sodipodi:role="line">Taller de Digitalización</tspan></text>
+      </g>
+      <g
+         id="g4471"
+         transform="translate(0,-354.33292)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4473"
+           y="1477.4124"
+           x="160.53943"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff"
+             y="1477.4124"
+             x="160.53943"
+             id="tspan4475"
+             sodipodi:role="line">15:00</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="250.28569"
+           y="1476.3524"
+           id="text4477"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4479"
+             x="250.28569"
+             y="1476.3524"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff">Comida</tspan></text>
+      </g>
+      <g
+         transform="translate(0,-389.76599)"
+         id="g4481">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="160.53943"
+           y="1477.4124"
+           id="text4483"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4485"
+             x="160.53943"
+             y="1477.4124"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff">12:00</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4487"
+           y="1476.3524"
+           x="250.28569"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff"
+             y="1476.3524"
+             x="250.28569"
+             id="tspan4489"
+             sodipodi:role="line">Taller de Digitalización: Introducción</tspan></text>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4499"
+         d="m 832.677,1169.2913 141.73245,0"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4501"
+         d="m 832.677,1240.1575 141.73245,0"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="904.40228"
+         y="1113.5261"
+         id="text4503"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4505"
+           x="904.40228"
+           y="1113.5261"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#ffffff">El Tapanco</tspan><tspan
+           id="tspan4507"
+           sodipodi:role="line"
+           x="904.40228"
+           y="1130.3315"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#ffffff">Gabino Barreda 111</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4509"
+         y="1202.8119"
+         x="903.57733"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#ffffff"
+           y="1202.8119"
+           x="903.57733"
+           id="tspan4511"
+           sodipodi:role="line">Rojo Café</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#ffffff"
+           y="1219.6173"
+           x="903.57733"
+           sodipodi:role="line"
+           id="tspan4513">Gildardo Gómez 47</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4515"
+         y="1325.5261"
+         x="904.40228"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#ffffff"
+           y="1325.5261"
+           x="904.40228"
+           id="tspan4517"
+           sodipodi:role="line">El Tapanco</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#ffffff"
+           y="1342.3315"
+           x="904.40228"
+           sodipodi:role="line"
+           id="tspan4519">Gabino Barreda 111</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="903.49603"
+         y="1451.5261"
+         id="text4521"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4523"
+           x="903.49603"
+           y="1451.5261"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#ffffff">Traspatio</tspan><tspan
+           id="tspan4525"
+           sodipodi:role="line"
+           x="903.49603"
+           y="1468.3315"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#ffffff">Gabino Barreda 120</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="logos"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       id="g4637"
+       transform="matrix(0.94355268,0,0,0.94355268,61.003132,40.002037)">
+      <image
+         sodipodi:absref="/Users/leovolkov/ownCloud/Tapancazo/invitacion/logoRojo.png"
+         xlink:href="logoRojo.png"
+         y="637.07941"
+         x="1009.8429"
+         id="image4573"
+         preserveAspectRatio="none"
+         height="71.581963"
+         width="70.866142" />
+      <image
+         sodipodi:absref="/Users/leovolkov/ownCloud/Tapancazo/invitacion/logoTrasptatio.png"
+         xlink:href="logoTrasptatio.png"
+         y="637.43732"
+         x="823.99103"
+         id="image4633"
+         preserveAspectRatio="none"
+         height="70.866142"
+         width="70.866142" />
+      <image
+         sodipodi:absref="/Users/leovolkov/ownCloud/Tapancazo/invitacion/logoHackers.png"
+         xlink:href="logoHackers.png"
+         style="display:inline"
+         y="637.43732"
+         x="916.91699"
+         id="image4693"
+         preserveAspectRatio="none"
+         height="70.866142"
+         width="70.866142" />
+    </g>
+    <g
+       style="display:inline"
+       id="g4219"
+       transform="matrix(1.367015,0,0,1.367015,37.419437,36.82308)">
+      <g
+         transform="matrix(0.74124545,0,0,0.74124589,-18.252428,-7.999526)"
+         style="fill:#ffffff;fill-opacity:1"
+         id="g5">
+        <path
+           style="fill:#ffffff;fill-opacity:1"
+           d="m 42.75,48.824 c 0.724,-0.647 1.494,-1.271 2.239,-1.875 1.734,-1.405 3.527,-2.859 4.814,-4.685 0.348,-0.497 0.656,-1.023 0.939,-1.567 -0.176,0.057 -0.279,0.089 -0.288,0.091 -0.147,0.052 -0.318,0.082 -0.489,0.082 -0.645,0 -1.19,-0.418 -1.27,-0.974 -0.108,-0.59 0.424,-1.029 1.078,-1.501 l 2.295,-1.772 c -0.703,-1.035 -1.277,-2.089 -1.747,-3.212 -0.67,-1.591 -1.303,-3.096 -1.182,-4.723 0.213,-3.595 3.683,-5.991 5.731,-7.098 1.022,-0.575 3.165,-1.78 5.465,-1.78 0.613,0 1.198,0.089 1.746,0.263 -3.633,-5.585 -9.926,-9.281 -17.084,-9.281 -11.252,0 -20.373,9.121 -20.373,20.372 0,9.703 6.785,17.815 15.867,19.867 0.705,-0.76 1.455,-1.495 2.259,-2.207 z"
+           id="path7"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0.74124545,0,0,0.74124589,-18.252428,-7.999526)"
+         style="fill:#ffffff;fill-opacity:1"
+         id="g9">
+        <path
+           style="fill:#ffffff;fill-opacity:1"
+           d="m 71.563,25.59 c -0.05,0 -0.169,0.021 -0.411,0.16 l -3.27,1.928 c -0.116,0.069 -0.258,0.085 -0.387,0.044 -0.129,-0.041 -0.234,-0.135 -0.29,-0.259 -0.543,-1.202 -1.175,-2.27 -1.931,-3.264 l -0.033,-0.042 c -1.016,-1.31 -1.893,-2.441 -3.14,-3.001 -0.582,-0.261 -1.229,-0.394 -1.923,-0.394 -2.051,0 -4.046,1.122 -5.005,1.662 -1.516,0.819 -5.047,3.068 -5.24,6.326 -0.104,1.405 0.458,2.742 1.11,4.291 0.498,1.192 1.122,2.306 1.907,3.404 0.148,0.209 0.105,0.499 -0.098,0.655 l -2.667,2.058 c -0.498,0.36 -0.658,0.528 -0.699,0.607 0.031,0.063 0.146,0.149 0.32,0.149 0.063,0 0.127,-0.011 0.192,-0.034 0.09,-0.028 7.32,-2.267 12.783,-6.014 3.308,-2.259 6.229,-4.878 8.687,-7.785 0.179,-0.204 0.228,-0.401 0.183,-0.446 C 71.606,25.59 71.584,25.59 71.563,25.59 Z"
+           id="path11"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 37.696779,20.25825 c -0.245353,-0.433629 -1.301627,-0.584843 -3.226642,-1.415039 -0.263883,-0.11341 -0.528508,-0.245352 -0.697512,-0.472173 -0.150473,-0.207549 -0.189017,-0.471433 -0.226821,-0.736057 -0.121564,-1.128177 -0.133424,-2.36754 -0.641177,-3.349691 -1.289767,1.22528 -2.700357,2.364575 -4.218428,3.402319 -2.933108,2.011 -6.529631,3.445311 -8.395346,4.11688 -0.313547,0.693065 -0.667121,1.360927 -1.101491,1.980609 -1.396506,1.98135 -3.490525,3.32004 -5.282856,4.924837 -4.4148581,3.905625 -6.6741742,8.677766 -7.0522094,14.564741 -0.018531,0.432888 0.04744,2.414979 -1.0948195,2.457971 C 4.4356127,45.782311 2.9731355,43.975895 2.358643,43.025617 2.1636954,42.72393 2.1496118,42.676491 2.0814172,42.619415 c -0.046699,-0.04003 -0.2119962,-0.08895 -0.2564709,0.387671 -0.073383,0.787945 -0.036321,1.381683 0.042992,1.982833 0.2164437,1.633706 1.22602,2.704065 2.687756,3.666202 0.3824826,0.252024 1.7560105,1.016248 3.5327758,1.254929 C 8.6147546,49.981469 9.4812705,50 9.4812705,50 l 10.4411835,0 0.841314,0 3.433448,0 c -0.09117,-3.080618 -2.713699,-3.128058 -3.045777,-3.161414 0.358021,-1.263824 0.528508,-2.583983 0.490704,-3.886352 0.495152,-0.226821 1.030332,-0.550004 1.495834,-0.960655 0.421027,2.854538 0.838348,4.223619 0.912473,4.624633 0.07487,0.400273 0.395825,2.271919 0.784979,2.884929 0.223115,0.408427 0.77386,0.447713 1.02959,0.450678 0.136389,0.0015 0.736056,0.03261 1.332759,0 l 2.51727,0 c 0.07042,-2.694429 -2.471313,-3.133246 -2.639575,-3.18884 -0.887271,-3.942687 1.980607,-7.677825 2.678861,-11.641267 0.546297,-3.11175 -0.283897,-6.282059 -0.396567,-9.450885 -0.01853,-0.415839 0,-0.88653 0.283156,-1.188958 0.207549,-0.22608 0.528508,-0.32096 0.830195,-0.377294 1.792331,-0.32096 3.811484,0.188276 5.131642,-0.32096 1.566993,-0.657485 2.547661,-2.732973 2.094019,-3.525365 z"
+         id="path41"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
