@@ -1,3 +1,6 @@
+# Índice
+* [Taller de digitalización](#Tallerdedigitalización)
+
 # Taller de digitalización
 
 Hola, terrícola, bienvenido a la carpeta destinada para poner los materiales elaborados durante este evento.
