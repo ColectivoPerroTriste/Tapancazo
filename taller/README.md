@@ -1,18 +1,18 @@
 # Índice
 * [Taller de digitalización](#taller-de-digitalización)
-  * [Proyecto de Gabriel Portillo del Toro]
-  * [Proceso de digitalización]
-    * [Obtención de la publicación digitalizada]
-    * [Desarrollo de una publicación electrónica]
-  * [*Software* necesario]
-    * [Para cualquier cosmonauta]
-    * [Según el tipo de traje de cada cosmonauta]
-      * [Windows]
-      * [Linux]
-      * [Mac OS X]
-    * [Si el cosmonauta prefiere editar en un procesador de textos]
-  * [Árbol de directorios]
-  * [¿Qué hago si me pierdo en el cosmos?](#¿qué-hago-si-me-pierdo-en-el-cosmos?)
+  * [Proyecto de Gabriel Portillo del Toro](#proyecto-de-grabriel-portillo-del-toro)
+  * [Proceso de digitalización](#proceso-de-digitalización)
+    * [Obtención de la publicación digitalizada](#obtención-de-la-publicación)
+    * [Desarrollo de una publicación electrónica](#desarrollo-de-una-publicación-electrónica)
+  * [*Software* necesario](#software-necesario)
+    * [Para cualquier cosmonauta](#para-cualquier-cosmonauta)
+    * [Según el tipo de traje de cada cosmonauta](#según-el-tipo-de-traje-de-cada-cosmonauta)
+      * [Windows](#windows)
+      * [Linux](#linux)
+      * [Mac OS X](#mac-os-x)
+    * [Si el cosmonauta prefiere editar en un procesador de textos](#si-el-cosmonauta-prefiere-editar-en-un-procesador-de-textos)
+  * [Árbol de directorios](#árbol-de-directorios)
+  * [¿Qué hago si me pierdo en el cosmos?](#qué-hago-si-me-pierdo-en-el-cosmos)
 
 # Taller de digitalización
 
