@@ -2,7 +2,7 @@
 * [Taller de digitalización](#taller-de-digitalización)
   * [Proyecto de Gabriel Portillo del Toro](#proyecto-de-gabriel-portillo-del-toro)
   * [Proceso de digitalización](#proceso-de-digitalización)
-    * [Obtención de la publicación digitalizada](#obtención-de-la-publicación)
+    * [Obtención de la publicación digitalizada](#obtención-de-la-publicación-digitalizada)
     * [Desarrollo de una publicación electrónica](#desarrollo-de-una-publicación-electrónica)
   * [*Software* necesario](#software-necesario)
     * [Para cualquier cosmonauta](#para-cualquier-cosmonauta)
