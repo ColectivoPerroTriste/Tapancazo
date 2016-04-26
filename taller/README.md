@@ -1,5 +1,5 @@
 # Índice
-* [Taller de digitalización](#tallerdedigitalización)
+* [Taller de digitalización](#taller-de-digitalización)
   * [Proyecto de Gabriel Portillo del Toro]
   * [Proceso de digitalización]
     * [Obtención de la publicación digitalizada]
@@ -12,7 +12,7 @@
       * [Mac OS X]
     * [Si el cosmonauta prefiere editar en un procesador de textos]
   * [Árbol de directorios]
-  * [¿Qué hago si me pierdo en el cosmos?](#¿quéhagosimepierdoenelcosmos?)
+  * [¿Qué hago si me pierdo en el cosmos?](#¿qué-hago-si-me-pierdo-en-el-cosmos?)
 
 # Taller de digitalización
 
