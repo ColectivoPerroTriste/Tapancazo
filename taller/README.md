@@ -11,7 +11,7 @@
       * [Linux](#linux)
       * [Mac OS X](#mac-os-x)
     * [Si el cosmonauta prefiere editar en un procesador de textos](#si-el-cosmonauta-prefiere-editar-en-un-procesador-de-textos)
-  * [Árbol de directorios](#árbol-de-directorios)
+  * [Árbol de directorios](#Árbol-de-directorios)
   * [¿Qué hago si me pierdo en el cosmos?](#qué-hago-si-me-pierdo-en-el-cosmos)
 
 # Taller de digitalización
