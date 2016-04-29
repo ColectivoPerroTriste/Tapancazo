@@ -1,0 +1,341 @@
+/**************************************************/
+/******************* RESETEADOR *******************/
+/**************************************************/
+
+/* http://meyerweb.com/eric/tools/css/reset/ v2.0 */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+/* Para viejos exploradores */
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body {
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/**************************************************/
+
+
+/* Fuentes */
+
+@font-face {
+	font-family: Lora-Regular;
+	font-style: normal;
+	font-weight: normal;
+	src: url(../ttf/Lora-Regular.ttf);
+}
+
+@font-face {
+	font-family: Lora-Italic;
+	font-style: normal;
+	font-weight: normal;
+	src: url(../ttf/Lora-Italic.ttf);
+}
+
+@font-face {
+	font-family: Lora-Bold;
+	font-style: normal;
+	font-weight: normal;
+	src: url(../ttf/Lora-Bold.ttf);
+}
+
+/* Portada */
+
+.portada {
+	width: calc(100vw - 1em);
+    height: 100vh;
+    margin-top: -1.2em;
+    margin-left: .5em;
+    background: white url(../img/portada.jpg) no-repeat center center;
+    background-size: contain;
+}
+
+body {
+    margin: 4em;
+}
+
+/* Encabezados */
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Lora-Regular, Georgia, serif;
+    margin-bottom: 1em;
+    text-align: left;
+}
+
+* + h2, h3, h4, h5, h6 {
+    margin-top: 1em;
+}
+
+h1 {
+    margin-top: 3em;
+    font-size: 2em;
+}
+
+h2 {
+    margin-top: 2em;
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.25em;
+}
+
+h4 {
+    font-style: italic;
+    font-weight: bold;
+}
+
+h5 {
+    font-weight: bold;
+}
+
+h6 {
+    font-style: italic;
+}
+
+/* Párrafos */
+
+h1 + p {
+    margin-top: 4em;
+}
+
+h1 + p strong:first-child {
+    font-weight: normal;
+}
+
+p, blockquote, li {
+	font-family: Lora-Regular, Georgia, serif;
+	font-size: 1em;
+	text-align: justify;
+	line-height: 1.25em;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    -o-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+}
+
+p + p {
+	text-indent: 1.5em;
+}
+
+blockquote {
+    font-size: .9em;
+    margin: 1em;
+}
+
+blockquote + blockquote {
+	text-indent: 1.5em;
+    margin-top: -1em;
+}
+
+.justificado {
+	text-align: justify;
+}
+
+.derecha {
+    text-indent: 0em;
+	text-align: right;
+}
+
+.centrado {
+    text-indent: 0em;
+	text-align: center;
+}
+
+.frances {
+    margin-left: 1.5em;
+    text-indent: -1.5em;
+    text-align: left;
+}
+
+* + .frances {
+    margin-top: 1em;
+}
+
+.frances + .frances {
+    margin-top: 0.5em;
+    text-indent: -1.5em;
+}
+
+.sinSangria {
+    text-indent: 0;
+}
+
+/* Efectos en las fuentes */
+
+i, em {
+    font-style: italic;
+	font-family: Lora-Italic, Georgia, serif;
+}
+
+b, strong {
+	font-weight: bold;
+    font-family: Lora-Bold, Georgia, serif;
+}
+
+.versalitas {
+    font-variant: small-caps;
+}
+
+/* Enlaces */
+
+a, a:link, a:visited {
+	text-decoration: none;
+	color: gray;
+}
+
+/* Listas */
+
+ol, ul {
+    margin: 1em 0em 1em 2em;
+    paddig: 0em;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+ul {
+    list-style-image: url('../img/ul.png');
+}
+
+/* Superíndices y subíndices */
+
+sup, sub {
+    font-size: .75em;
+    vertical-align: baseline;
+    position: relative;
+    top: -0.4em;
+}
+
+sub {
+    top: 0.4em;
+}
+
+/* De esta edición */
+
+.titulo {
+    margin-top: 3em;
+    margin-left: 0;
+    font-size: 3em;
+}
+
+.subtitulo {
+    margin-top: -1.5em;
+    margin-bottom: 3em;
+    margin-left: 0;
+}
+
+.logo {
+    margin-top: 5em;
+}
+
+.legal {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1em;
+	text-align: left;
+	line-height: 1.25em;
+	margin: 0;
+}
+
+.legal+.legal {
+	text-indent: 0;
+}
+
+.todoWidth {
+    width: 100%;
+    margin-left: 0%;
+}
+
+.espacioArriba {
+	margin-top: 1em;
+}
+
+.espacioArriba3 {
+	margin-top: 3em;
+}
+
+.logo2 {
+	width: 140px;
+}
+
+/* Estilos de esta edición */
+
+figure img {
+    max-width: 100%;
+}
+
+figure {
+    font-family: Lora-Regular, Georgia, serif;
+    text-align: center;
+    font-size: .8em;
+    margin: 1em 0em 1em 0em;
+}
+
+.epigrafe {
+    font-family: Lora-Regular, Georgia, serif;
+	font-size: .9em;
+	text-align: right;
+	line-height: 1.25em;
+    margin-left: 40%;
+}
+
+.epigrafe + p {
+    margin-top: 2em;
+    text-indent: 0;
+}
+
+.epigrafe + .epigrafe {
+    margin-top: .5em;
+}
+
+/*Estilo si la ventana es igual o mayor a 1025px (monitores)*/
+
+@media screen and (min-width: 1025px) {
+    body {
+        margin: 5em;
+    }
+}
