@@ -170,7 +170,7 @@ Sin importar si usas Windows, GNU/Linux, o Mac OS X requerirás los siguientes:
 
 * Atom o Brackets
   * Para editar archivos HTML. Solo es necesario escoger entre alguno de los
-  dos
+  dos.
   * Instalación:
     * Atom para Windows, GNU/Linux y Mac OS X:
     [https://atom.io/](https://atom.io/).
