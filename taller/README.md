@@ -217,10 +217,10 @@ Windows, GNU/Linux y Mac OS X, pero que nos ayudarán en nuestra travesía.
     * Ubuntu: `sudo apt-get install gscan2pdf` desde la terminal.
 
 * Tesseract
-  * Para reconocer caracteres. No olvides instalar el lenguaje español `spa`.
+  * Para reconocer caracteres.
   * Instalación:
     * `tar.gz`: [https://github.com/tesseract-ocr/tesseract/wiki](https://github.com/tesseract-ocr/tesseract/wiki).
-    * Ubuntu: `sudo apt-get install tesseract-ocr` desde la terminal.
+    * Ubuntu: `sudo apt-get install tesseract-ocr` desde la terminal y luego `sudo apt-get install tesseract-ocr-spa` para instalar el lenguaje español.
 
 * pdfsam
   * Para unir o separar archivos PDF.
