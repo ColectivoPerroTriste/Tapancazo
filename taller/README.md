@@ -8,7 +8,7 @@
     * [Para cualquier cosmonauta](#para-cualquier-cosmonauta)
     * [Según el tipo de traje de cada cosmonauta](#según-el-tipo-de-traje-de-cada-cosmonauta)
       * [Windows](#windows)
-      * [Linux](#linux)
+      * [Linux](#gnulinux)
       * [Mac OS X](#mac-os-x)
     * [Si el cosmonauta prefiere editar en un procesador de textos](#si-el-cosmonauta-prefiere-editar-en-un-procesador-de-textos)
   * [Árbol de directorios](#Árbol-de-directorios)
