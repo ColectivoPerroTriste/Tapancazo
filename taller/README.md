@@ -210,8 +210,13 @@ Windows, GNU/Linux y Mac OS X, pero que nos ayudarán en nuestra travesía.
 
 #### GNU/Linux
 
-* gscanpdf
-  * Para utilizar el escáner.
+* Xsane
+  * Para utilizar el escáner. Si se instala, ya no es necesario gscan2pdf.
+  * Instalación:
+    * Varios tipos de paquetes: [http://www.xsane.org/xsane-download-binary.html](http://www.xsane.org/xsane-download-binary.html).
+    
+* gscan2pdf
+  * Para utilizar el escáner. Si se instala, ya no es necesario Xsane.
   * Instalación:
     * Varios tipos de paquetes: [https://sourceforge.net/projects/gscan2pdf/files/gscan2pdf/1.3.9/](https://sourceforge.net/projects/gscan2pdf/files/gscan2pdf/1.3.9/).
     * Ubuntu: `sudo apt-get install gscan2pdf` desde la terminal.
@@ -222,8 +227,13 @@ Windows, GNU/Linux y Mac OS X, pero que nos ayudarán en nuestra travesía.
     * `tar.gz`: [https://github.com/tesseract-ocr/tesseract/wiki](https://github.com/tesseract-ocr/tesseract/wiki).
     * Ubuntu: `sudo apt-get install tesseract-ocr` desde la terminal y luego `sudo apt-get install tesseract-ocr-spa` para instalar el lenguaje español.
 
+* pdfjoin
+  * Para unir archivos PDF. Si se instala, ya no es necesario pdfsam.
+  * Instalación:
+    * Varios tipos de paquetes: [https://gitlab.com/pdftools/pdfjoin](https://gitlab.com/pdftools/pdfjoin).
+
 * pdfsam
-  * Para unir o separar archivos PDF.
+  * Para unir o separar archivos PDF. Si se instala, ya no es necesario pdfjoin.
   * Instalación:
     * `tar.gz`: [https://github.com/torakiki/sejda/releases](https://github.com/torakiki/sejda/releases).
     * Ubuntu: desde el Centro de Software o con `sudo apt-get install pdfsam`
